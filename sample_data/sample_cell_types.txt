@@ -1,0 +1,6 @@
+fibroblast
+keratinocyte
+endothelial cell
+melanocyte
+immune cell
+myofibroblast

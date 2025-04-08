@@ -1,0 +1,72 @@
+{
+  "paperId": "2c6a360b7f3d1b2baa273b60fa89e0199a32445e",
+  "url": "https://www.semanticscholar.org/paper/2c6a360b7f3d1b2baa273b60fa89e0199a32445e",
+  "title": "Single-cell RNA-seq reveals fibroblast heterogeneity and increased mesenchymal fibroblasts in human fibrotic skin diseases",
+  "abstract": "Fibrotic skin disease represents a major global healthcare burden, characterized by fibroblast hyperproliferation and excessive accumulation of extracellular matrix. Fibroblasts are found to be heterogeneous in multiple fibrotic diseases, but fibroblast heterogeneity in fibrotic skin diseases is not well characterized. In this study, we explore fibroblast heterogeneity in keloid, a paradigm of fibrotic skin diseases, by using single-cell RNA-seq. Our results indicate that keloid fibroblasts can be divided into 4 subpopulations: secretory-papillary, secretory-reticular, mesenchymal and pro-inflammatory. Interestingly, the percentage of mesenchymal fibroblast subpopulation is significantly increased in keloid compared to normal scar. Functional studies indicate that mesenchymal fibroblasts are crucial for collagen overexpression in keloid. Increased mesenchymal fibroblast subpopulation is also found in another fibrotic skin disease, scleroderma, suggesting this is a broad mechanism for skin fibrosis. These findings will help us better understand skin fibrotic pathogenesis, and provide potential targets for fibrotic disease therapies. Fibroblasts are found to be heterogeneous in multiple fibrotic diseases, but fibroblast heterogeneity in fibrotic skin diseases is not well characterized. Here the authors employ scRNA-seq to explore fibroblast heterogeneity in keloid, a paradigm of fibrotic skin diseases.",
+  "venue": "Nature Communications",
+  "year": 2021,
+  "citationCount": 232,
+  "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41467-021-24110-y.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8211847, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "tldr": {
+    "model": "tldr@v2.0.0",
+    "text": "Fibrotic skin disease represents a major global healthcare burden, characterized by fibroblast hyperproliferation and excessive accumulation of extracellular matrix, andFunctional studies indicate that mesenchymal fibroblasts are crucial for collagen overexpression in keloid, and these findings will help to better understand skin fibrotic pathogenesis, and provide potential targets for fibrotics disease therapies."
+  },
+  "journal": {
+    "name": "Nature Communications",
+    "volume": "12"
+  },
+  "authors": [
+    {
+      "authorId": "81311175",
+      "name": "Cheng-Cheng Deng"
+    },
+    {
+      "authorId": "2775237",
+      "name": "Yongfei Hu"
+    },
+    {
+      "authorId": "2116657514",
+      "name": "Ding-Heng Zhu"
+    },
+    {
+      "authorId": "2113507417",
+      "name": "Qing Cheng"
+    },
+    {
+      "authorId": "2156225947",
+      "name": "Jinge Gu"
+    },
+    {
+      "authorId": "2113573503",
+      "name": "Qing-Lan Feng"
+    },
+    {
+      "authorId": "2116195666",
+      "name": "Li-Xue Zhang"
+    },
+    {
+      "authorId": "150353135",
+      "name": "Yingping Xu"
+    },
+    {
+      "authorId": "2152689118",
+      "name": "Dong Wang"
+    },
+    {
+      "authorId": "2345861",
+      "name": "Zhili Rong"
+    },
+    {
+      "authorId": "2118581427",
+      "name": "Bin Yang"
+    }
+  ]
+}

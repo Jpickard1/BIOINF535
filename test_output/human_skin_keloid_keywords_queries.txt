@@ -1,0 +1,19 @@
+human skin keloid gene expression
+human skin keloid transcriptome
+human skin keloid single cell
+human fibroblast keloid gene expression
+human fibroblast skin keloid
+human keratinocyte keloid gene expression
+human keratinocyte skin keloid
+human endothelial cell keloid gene expression
+human endothelial cell skin keloid
+human keloid COL1A1 COL3A1 ACTA2
+skin COL1A1 COL3A1 ACTA2
+human keloid KRT1 KRT10
+skin KRT1 KRT10
+human keloid KEGG ECM RECEPTOR INTERACTION
+skin KEGG ECM RECEPTOR INTERACTION
+human keloid GO COLLAGEN FIBRIL ORGANIZATION
+skin GO COLLAGEN FIBRIL ORGANIZATION
+human keloid HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+skin HALLMARK EPITHELIAL MESENCHYMAL TRANSITION

@@ -1,0 +1,20 @@
+[2025-04-02 16:13:01] Pipeline initialized with output directory: paper_retrieval_results
+[2025-04-02 16:13:01] Starting pipeline for human skin keloid
+[2025-04-02 16:13:01] Parsing differential expression results from sample_data/sample_de_results.csv
+[2025-04-02 16:13:01] Found 16 significant genes, selected 16
+[2025-04-02 16:13:01] Parsing gene set enrichment results from sample_data/sample_gsea_results.csv
+[2025-04-02 16:13:01] Found 10 significant pathways, selected 10
+[2025-04-02 16:13:01] Using cell types: keratinocyte, endothelial cell, melanocyte, immune cell, myofibroblast
+[2025-04-02 16:13:01] Generating search keywords
+[2025-04-02 16:13:01] Generated 19 combined search queries
+[2025-04-02 16:13:01] Generating iterative gene queries
+[2025-04-02 16:13:01] Added 18 iterative gene queries
+[2025-04-02 16:13:01] Generating iterative pathway queries
+[2025-04-02 16:13:01] Added 30 iterative pathway queries
+[2025-04-02 16:13:01] Starting paper retrieval with 67 queries
+[2025-04-02 16:13:01] Retrieving up to 0 papers per query, maximum total: 50
+[2025-04-02 16:13:01] Paper retrieval completed
+[2025-04-02 16:13:01] Retrieved 0 total papers, 0 unique papers
+[2025-04-02 16:13:01] Pipeline summary saved to paper_retrieval_results/human_skin_keloid_summary.json
+[2025-04-02 16:13:01] Paper statistics saved to paper_retrieval_results/human_skin_keloid_statistics.json
+[2025-04-02 16:13:01] No paper metadata found, cannot generate report

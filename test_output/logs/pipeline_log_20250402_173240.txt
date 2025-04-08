@@ -1,0 +1,19 @@
+[2025-04-02 17:32:40] Pipeline initialized with output directory: test_output
+[2025-04-02 17:32:40] Starting pipeline for human skin keloid
+[2025-04-02 17:32:40] Parsing differential expression results from sample_data/sample_de_results.csv
+[2025-04-02 17:32:40] Found 16 significant genes, selected 16
+[2025-04-02 17:32:40] Parsing gene set enrichment results from sample_data/sample_gsea_results.csv
+[2025-04-02 17:32:40] Found 10 significant pathways, selected 10
+[2025-04-02 17:32:40] Using cell types: keratinocyte, endothelial cell, melanocyte, immune cell, myofibroblast
+[2025-04-02 17:32:40] Generating search keywords
+[2025-04-02 17:32:40] Generated 19 combined search queries
+[2025-04-02 17:32:40] Generating iterative gene queries
+[2025-04-02 17:32:40] Added 18 iterative gene queries
+[2025-04-02 17:32:40] Generating iterative pathway queries
+[2025-04-02 17:32:40] Added 30 iterative pathway queries
+[2025-04-02 17:32:40] Starting paper retrieval with 67 queries
+[2025-04-02 17:32:40] Retrieving up to 0 papers per query, maximum total: 10
+[2025-04-02 17:34:52] Paper retrieval completed
+[2025-04-02 17:34:52] Retrieved 0 total papers, 0 unique papers
+[2025-04-02 17:34:52] Pipeline summary saved to test_output/human_skin_keloid_summary.json
+[2025-04-02 17:34:52] Paper statistics saved to test_output/human_skin_keloid_statistics.json
