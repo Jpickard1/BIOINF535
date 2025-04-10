@@ -1,2028 +1,852 @@
 [
   {
-    "paperId": "2bab6aa7f9f2639dc01785f0659775f3ba80d889",
+    "paperId": "719cafa404e972da8a88e815b232dabe3021df18",
     "externalIds": {
-      "PubMedCentral": "11102923",
-      "DOI": "10.1038/s41392-024-01823-2",
-      "CorpusId": 269919730,
-      "PubMed": "38763973"
+      "DOI": "10.1089/bfm.2020.0316",
+      "CorpusId": 231622264,
+      "PubMed": "33449829"
     },
-    "url": "https://www.semanticscholar.org/paper/2bab6aa7f9f2639dc01785f0659775f3ba80d889",
-    "title": "Tumor biomarkers for diagnosis, prognosis and targeted therapy",
-    "abstract": "Tumor biomarkers, the substances which are produced by tumors or the body\u2019s responses to tumors during tumorigenesis and progression, have been demonstrated to possess critical and encouraging value in screening and early diagnosis, prognosis prediction, recurrence detection, and therapeutic efficacy monitoring of cancers. Over the past decades, continuous progress has been made in exploring and discovering novel, sensitive, specific, and accurate tumor biomarkers, which has significantly promoted personalized medicine and improved the outcomes of cancer patients, especially advances in molecular biology technologies developed for the detection of tumor biomarkers. Herein, we summarize the discovery and development of tumor biomarkers, including the history of tumor biomarkers, the conventional and innovative technologies used for biomarker discovery and detection, the classification of tumor biomarkers based on tissue origins, and the application of tumor biomarkers in clinical cancer management. In particular, we highlight the recent advancements in biomarker-based anticancer-targeted therapies which are emerging as breakthroughs and promising cancer therapeutic strategies. We also discuss limitations and challenges that need to be addressed and provide insights and perspectives to turn challenges into opportunities in this field. Collectively, the discovery and application of multiple tumor biomarkers emphasized in this review may provide guidance on improved precision medicine, broaden horizons in future research directions, and expedite the clinical classification of cancer patients according to their molecular biomarkers rather than organs of origin.",
-    "year": 2024,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.nature.com/articles/s41392-024-01823-2.pdf",
-      "status": "GOLD",
-      "license": "CCBY",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11102923, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "2150666887",
-        "name": "Yuee Zhou"
-      },
-      {
-        "authorId": "2091422424",
-        "name": "Lei Tao"
-      },
-      {
-        "authorId": "1858919957",
-        "name": "Jia-Hui Qiu"
-      },
-      {
-        "authorId": "2261271528",
-        "name": "Jing Xu"
-      },
-      {
-        "authorId": "2261276017",
-        "name": "Xinyu Yang"
-      },
-      {
-        "authorId": "2261413717",
-        "name": "Yu Zhang"
-      },
-      {
-        "authorId": "2267172178",
-        "name": "Xinyu Tian"
-      },
-      {
-        "authorId": "2220427597",
-        "name": "Xinqi Guan"
-      },
-      {
-        "authorId": "4336560",
-        "name": "X. Cen"
-      },
-      {
-        "authorId": "2280133977",
-        "name": "Yinglan Zhao"
-      }
-    ]
-  },
-  {
-    "paperId": "947980589a74ce04c3d38f755642883c010a373d",
-    "externalIds": {
-      "PubMedCentral": "9898515",
-      "DOI": "10.1038/s41467-023-36231-7",
-      "CorpusId": 256550203,
-      "PubMed": "36737450"
-    },
-    "url": "https://www.semanticscholar.org/paper/947980589a74ce04c3d38f755642883c010a373d",
-    "title": "Atlas of plasma NMR biomarkers for health and disease in 118,461 individuals from the UK Biobank",
-    "abstract": "The authors report a systematic analyses of blood biomarkers for metabolism against the whole spectrum of diseases in 100,000 individuals and reveals a prominent role of numerous metabolic biomarkers as risk markers beyond heart disease and diabetes. Blood lipids and metabolites are markers of current health and future disease risk. Here, we describe plasma nuclear magnetic resonance (NMR) biomarker data for 118,461 participants in the UK Biobank. The biomarkers cover 249 measures of lipoprotein lipids, fatty acids, and small molecules such as amino acids, ketones, and glycolysis metabolites. We provide an atlas of associations of these biomarkers to prevalence, incidence, and mortality of over 700 common diseases ( nightingalehealth.com/atlas ). The results reveal a plethora of biomarker associations, including susceptibility to infectious diseases and risk of various cancers, joint disorders, and mental health outcomes, indicating that abundant circulating lipids and metabolites are risk markers beyond cardiometabolic diseases. Clustering analyses indicate similar biomarker association patterns across different disease types, suggesting latent systemic connectivity in the susceptibility to a diverse set of diseases. This work highlights the value of NMR based metabolic biomarker profiling in large biobanks for public health research and translation.",
-    "year": 2023,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.nature.com/articles/s41467-023-36231-7.pdf",
-      "status": "GOLD",
-      "license": "CCBY",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9898515, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "51044624",
-        "name": "H. Julkunen"
-      },
-      {
-        "authorId": "2366898",
-        "name": "A. Cicho\u0144ska"
-      },
-      {
-        "authorId": "34521353",
-        "name": "M. Tiainen"
-      },
-      {
-        "authorId": "35269010",
-        "name": "H. Koskela"
-      },
-      {
-        "authorId": "38789719",
-        "name": "K. Nybo"
-      },
-      {
-        "authorId": "31678701",
-        "name": "Valtteri M\u00e4kel\u00e4"
-      },
-      {
-        "authorId": "1404734764",
-        "name": "Jussi Nokso-Koivisto"
-      },
-      {
-        "authorId": "4343816",
-        "name": "K. Kristiansson"
-      },
-      {
-        "authorId": "2548112",
-        "name": "M. Perola"
-      },
-      {
-        "authorId": "2960501",
-        "name": "V. Salomaa"
-      },
-      {
-        "authorId": "4382762",
-        "name": "P. Jousilahti"
-      },
-      {
-        "authorId": "152537261",
-        "name": "A. Lundqvist"
-      },
-      {
-        "authorId": "2604430",
-        "name": "A. Kangas"
-      },
-      {
-        "authorId": "143727874",
-        "name": "P. Soininen"
-      },
-      {
-        "authorId": "144559763",
-        "name": "J. Barrett"
-      },
-      {
-        "authorId": "2800507",
-        "name": "P. W\u00fcrtz"
-      }
-    ]
-  },
-  {
-    "paperId": "2ad9bd0b205340eea5987fc8a551f2024fa1e977",
-    "externalIds": {
-      "PubMedCentral": "10026263",
-      "DOI": "10.1038/s41392-023-01399-3",
-      "CorpusId": 257624463,
-      "PubMed": "36941259"
-    },
-    "url": "https://www.semanticscholar.org/paper/2ad9bd0b205340eea5987fc8a551f2024fa1e977",
-    "title": "Small molecule metabolites: discovery of biomarkers and therapeutic targets",
-    "abstract": "Metabolic abnormalities lead to the dysfunction of metabolic pathways and metabolite accumulation or deficiency which is well-recognized hallmarks of diseases. Metabolite signatures that have close proximity to subject\u2019s phenotypic informative dimension, are useful for predicting diagnosis and prognosis of diseases as well as monitoring treatments. The lack of early biomarkers could lead to poor diagnosis and serious outcomes. Therefore, noninvasive diagnosis and monitoring methods with high specificity and selectivity are desperately needed. Small molecule metabolites-based metabolomics has become a specialized tool for metabolic biomarker and pathway analysis, for revealing possible mechanisms of human various diseases and deciphering therapeutic potentials. It could help identify functional biomarkers related to phenotypic variation and delineate biochemical pathways changes as early indicators of pathological dysfunction and damage prior to disease development. Recently, scientists have established a large number of metabolic profiles to reveal the underlying mechanisms and metabolic networks for therapeutic target exploration in biomedicine. This review summarized the metabolic analysis on the potential value of small-molecule candidate metabolites as biomarkers with clinical events, which may lead to better diagnosis, prognosis, drug screening and treatment. We also discuss challenges that need to be addressed to fuel the next wave of breakthroughs.",
-    "year": 2023,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.nature.com/articles/s41392-023-01399-3.pdf",
-      "status": "GOLD",
-      "license": "CCBY",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10026263, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "143687600",
-        "name": "Shi Qiu"
-      },
-      {
-        "authorId": "2111027215",
-        "name": "Ying Cai"
-      },
-      {
-        "authorId": "2162876043",
-        "name": "Hong Yao"
-      },
-      {
-        "authorId": "2212025197",
-        "name": "Chunsheng Lin"
-      },
-      {
-        "authorId": "2188443448",
-        "name": "Yiqiang Xie"
-      },
-      {
-        "authorId": "11237506",
-        "name": "Songqi Tang"
-      },
-      {
-        "authorId": "2190315270",
-        "name": "Aihua Zhang"
-      }
-    ]
-  },
-  {
-    "paperId": "0078919139702d8df3969aa50aaa969cb4fd5048",
-    "externalIds": {
-      "PubMedCentral": "10115486",
-      "DOI": "10.1007/s11427-023-2305-0",
-      "CorpusId": 55623441,
-      "PubMed": "37076725"
-    },
-    "url": "https://www.semanticscholar.org/paper/0078919139702d8df3969aa50aaa969cb4fd5048",
-    "title": "Biomarkers of aging",
-    "abstract": "Aging biomarkers are a combination of biological parameters to (i) assess age-related changes, (ii) track the physiological aging process, and (iii) predict the transition into a pathological status. Although a broad spectrum of aging biomarkers has been developed, their potential uses and limitations remain poorly characterized. An immediate goal of biomarkers is to help us answer the following three fundamental questions in aging research: How old are we? Why do we get old? And how can we age slower? This review aims to address this need. Here, we summarize our current knowledge of biomarkers developed for cellular, organ, and organismal levels of aging, comprising six pillars: physiological characteristics, medical imaging, histological features, cellular alterations, molecular changes, and secretory factors. To fulfill all these requisites, we propose that aging biomarkers should qualify for being specific, systemic, and clinically relevant.",
-    "year": 2023,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://link.springer.com/content/pdf/10.1007/s11427-023-2305-0.pdf",
-      "status": "BRONZE",
-      "license": null,
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10115486, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "2052378746",
-        "name": "H. B\u1ea3o"
-      },
-      {
-        "authorId": "6341325",
-        "name": "Jiani Cao"
-      },
-      {
-        "authorId": "48622665",
-        "name": "Mengting Chen"
-      },
-      {
-        "authorId": "2157216141",
-        "name": "Min Chen"
-      },
-      {
-        "authorId": "2154941152",
-        "name": "Wei Chen"
-      },
-      {
-        "authorId": "2117025246",
-        "name": "Xiao Chen"
-      },
-      {
-        "authorId": "81369729",
-        "name": "Yanhao Chen"
-      },
-      {
-        "authorId": "2144838319",
-        "name": "Yu Chen"
-      },
-      {
-        "authorId": "2135804176",
-        "name": "Yutian Chen"
-      },
-      {
-        "authorId": "2128141982",
-        "name": "Zhiyang Chen"
-      },
-      {
-        "authorId": "6276181",
-        "name": "J. K. Chhetri"
-      },
-      {
-        "authorId": "2166267742",
-        "name": "Yingjie Ding"
-      },
-      {
-        "authorId": "2008867164",
-        "name": "Junlin Feng"
-      },
-      {
-        "authorId": "2107184217",
-        "name": "Jun Guo"
-      },
-      {
-        "authorId": "2112542263",
-        "name": "Mengmeng Guo"
-      },
-      {
-        "authorId": "66103090",
-        "name": "Chuting He"
-      },
-      {
-        "authorId": "51105166",
-        "name": "Yujuan Jia"
-      },
-      {
-        "authorId": "1635831467",
-        "name": "Haiping Jiang"
-      },
-      {
-        "authorId": "2069094667",
-        "name": "Ying Jing"
-      },
-      {
-        "authorId": "46598795",
-        "name": "Dingfeng Li"
-      },
-      {
-        "authorId": "2144515496",
-        "name": "Jiaming Li"
-      },
-      {
-        "authorId": "2116479140",
-        "name": "Jingyi Li"
-      },
-      {
-        "authorId": "2120188319",
-        "name": "Qinhao Liang"
-      },
-      {
-        "authorId": "2070440646",
-        "name": "Rui Liang"
-      },
-      {
-        "authorId": "2218962627",
-        "name": "Feng Liu"
-      },
-      {
-        "authorId": "107783174",
-        "name": "Xiaoqian Liu"
-      },
-      {
-        "authorId": "47781375",
-        "name": "Zuojun Liu"
-      },
-      {
-        "authorId": "3202564",
-        "name": "Oscar Junhong Luo"
-      },
-      {
-        "authorId": "4595544",
-        "name": "Jianwei Lv"
-      },
-      {
-        "authorId": "2157406136",
-        "name": "Jingyi Ma"
-      },
-      {
-        "authorId": "2214881404",
-        "name": "Kehang Mao"
-      },
-      {
-        "authorId": "38764495",
-        "name": "Jiawei Nie"
-      },
-      {
-        "authorId": "6993557",
-        "name": "Xinhua Qiao"
-      },
-      {
-        "authorId": "5648020",
-        "name": "Xinpei Sun"
-      },
-      {
-        "authorId": "148377967",
-        "name": "Xiaoqiang Tang"
-      },
-      {
-        "authorId": "2198860713",
-        "name": "Jianfang Wang"
-      },
-      {
-        "authorId": "1853346852",
-        "name": "Qiaoran Wang"
-      },
-      {
-        "authorId": "2116422161",
-        "name": "Siyuan Wang"
-      },
-      {
-        "authorId": "2157156746",
-        "name": "Xuan Wang"
-      },
-      {
-        "authorId": "2154554890",
-        "name": "Yaning Wang"
-      },
-      {
-        "authorId": "2118343983",
-        "name": "Yuhan Wang"
-      },
-      {
-        "authorId": "2214927920",
-        "name": "Rimo Wu"
-      },
-      {
-        "authorId": "2065015657",
-        "name": "Kai Xia"
-      },
-      {
-        "authorId": "4271811",
-        "name": "Fu-Hui Xiao"
-      },
-      {
-        "authorId": "47776110",
-        "name": "Lingyan Xu"
-      },
-      {
-        "authorId": "2173287396",
-        "name": "Yingying Xu"
-      },
-      {
-        "authorId": "51908176",
-        "name": "Haoteng Yan"
-      },
-      {
-        "authorId": "153737232",
-        "name": "Liang Yang"
-      },
-      {
-        "authorId": "2184290392",
-        "name": "Ruici Yang"
-      },
-      {
-        "authorId": "2170416851",
-        "name": "Yuanxin Yang"
-      },
-      {
-        "authorId": "49741310",
-        "name": "Yilin Ying"
-      },
-      {
-        "authorId": "2108005451",
-        "name": "Le Zhang"
-      },
-      {
-        "authorId": "2108477946",
-        "name": "Weiwei Zhang"
-      },
-      {
-        "authorId": "2108038584",
-        "name": "Wenwan Zhang"
-      },
-      {
-        "authorId": "2153646791",
-        "name": "Xing Zhang"
-      },
-      {
-        "authorId": "2109109058",
-        "name": "Zhuo Zhang"
-      },
-      {
-        "authorId": "2152175872",
-        "name": "Min Zhou"
-      },
-      {
-        "authorId": "2068016474",
-        "name": "Rui Zhou"
-      },
-      {
-        "authorId": "152312386",
-        "name": "Qingchen Zhu"
-      },
-      {
-        "authorId": "2191782312",
-        "name": "Zhengmao Zhu"
-      },
-      {
-        "authorId": "1789781",
-        "name": "F. Cao"
-      },
-      {
-        "authorId": "2403188",
-        "name": "Zhongwei Cao"
-      },
-      {
-        "authorId": "2407897",
-        "name": "P. Chan"
-      },
-      {
-        "authorId": "48240126",
-        "name": "Chang Chen"
-      },
-      {
-        "authorId": "35221510",
-        "name": "Guobing Chen"
-      },
-      {
-        "authorId": "7315214",
-        "name": "Houzao Chen"
-      },
-      {
-        "authorId": "2153416483",
-        "name": "Jun Chen"
-      },
-      {
-        "authorId": "121805396",
-        "name": "W. Ci"
-      },
-      {
-        "authorId": "2064493973",
-        "name": "Bisen Ding"
-      },
-      {
-        "authorId": "10658741",
-        "name": "Q. Ding"
-      },
-      {
-        "authorId": "2153408737",
-        "name": "Feng Gao"
-      },
-      {
-        "authorId": "145325584",
-        "name": "Jiawei Han"
-      },
-      {
-        "authorId": "2004670381",
-        "name": "Kai Huang"
-      },
-      {
-        "authorId": "3434765",
-        "name": "Z. Ju"
-      },
-      {
-        "authorId": "152571439",
-        "name": "Q. Kong"
-      },
-      {
-        "authorId": "2119607831",
-        "name": "Ji Li"
-      },
-      {
-        "authorId": "2151966596",
-        "name": "Jian Li"
-      },
-      {
-        "authorId": "40286491",
-        "name": "X. Li"
-      },
-      {
-        "authorId": "2155992547",
-        "name": "Baohua Liu"
-      },
-      {
-        "authorId": "40405236",
-        "name": "Feng Liu"
-      },
-      {
-        "authorId": "2194759946",
-        "name": "Lin Liu"
-      },
-      {
-        "authorId": "2146553993",
-        "name": "Qiang Liu"
-      },
-      {
-        "authorId": "2146554035",
-        "name": "Qiang Liu"
-      },
-      {
-        "authorId": "8015887",
-        "name": "Xingguo Liu"
-      },
-      {
-        "authorId": "2144385008",
-        "name": "Yong Liu"
-      },
-      {
-        "authorId": "2144526240",
-        "name": "Xianghang Luo"
-      },
-      {
-        "authorId": "2118867276",
-        "name": "Shuai Ma"
-      },
-      {
-        "authorId": "48577917",
-        "name": "Xinran Ma"
-      },
-      {
-        "authorId": "152645027",
-        "name": "Zhi-Chao Mao"
-      },
-      {
-        "authorId": "153328161",
-        "name": "Jing Nie"
-      },
-      {
-        "authorId": "8633456",
-        "name": "Yaojin Peng"
-      },
-      {
-        "authorId": "39253781",
-        "name": "J. Qu"
-      },
-      {
-        "authorId": "143702202",
-        "name": "Jie Ren"
-      },
-      {
-        "authorId": "143700764",
-        "name": "R. Ren"
-      },
-      {
-        "authorId": "4235259",
-        "name": "Moshi Song"
-      },
-      {
-        "authorId": "6731027",
-        "name": "Z. Songyang"
-      },
-      {
-        "authorId": "2171006429",
-        "name": "Y. E. Sun"
-      },
-      {
-        "authorId": "2218188896",
-        "name": "Yu Sun"
-      },
-      {
-        "authorId": "2197949618",
-        "name": "Mei Tian"
-      },
-      {
-        "authorId": "2135543895",
-        "name": "Shusen Wang"
-      },
-      {
-        "authorId": "118188830",
-        "name": "Si Wang"
-      },
-      {
-        "authorId": "2108224640",
-        "name": "Xia Wang"
-      },
-      {
-        "authorId": "2144667584",
-        "name": "Xiaoning Wang"
-      },
-      {
-        "authorId": "1734203",
-        "name": "Yanjiang Wang"
-      },
-      {
-        "authorId": "2143428575",
-        "name": "Yunfang Wang"
-      },
-      {
-        "authorId": "2199663676",
-        "name": "Catherine C. L. Wong"
-      },
-      {
-        "authorId": "5848786",
-        "name": "A. Xiang"
-      },
-      {
-        "authorId": "40586091",
-        "name": "Yichuan Xiao"
-      },
-      {
-        "authorId": "2114113630",
-        "name": "Zhengwei Xie"
-      },
-      {
-        "authorId": "9852436",
-        "name": "Daichao Xu"
-      },
-      {
-        "authorId": "2116475498",
-        "name": "Jing Ye"
-      },
-      {
-        "authorId": "2095026445",
-        "name": "Rui Yue"
-      },
-      {
-        "authorId": "2111386459",
-        "name": "Cun-yuan Zhang"
-      },
-      {
-        "authorId": "2116271774",
-        "name": "Hongbo Zhang"
-      },
-      {
-        "authorId": "2146643155",
-        "name": "Liang Zhang"
-      },
-      {
-        "authorId": "14341433",
-        "name": "Weiqi Zhang"
-      },
-      {
-        "authorId": "2144288517",
-        "name": "Yong Zhang"
-      },
-      {
-        "authorId": "153533680",
-        "name": "Yun-wu Zhang"
-      },
-      {
-        "authorId": "2109107436",
-        "name": "Zhuohua Zhang"
-      },
-      {
-        "authorId": "2654895",
-        "name": "T. Zhao"
-      },
-      {
-        "authorId": "2349748284",
-        "name": "Yuzheng Zhao"
-      },
-      {
-        "authorId": "7759024",
-        "name": "Dahai Zhu"
-      },
-      {
-        "authorId": "2075366546",
-        "name": "Weiguo Zou"
-      },
-      {
-        "authorId": "144762128",
-        "name": "Gang Pei"
-      },
-      {
-        "authorId": "21515807",
-        "name": "Guangyan Liu"
-      }
-    ]
-  },
-  {
-    "paperId": "9e253630ce9dd2a62a8730793fc988d1b008f8e4",
-    "externalIds": {
-      "MAG": "2340636398",
-      "DOI": "10.1038/nrc.2016.36",
-      "CorpusId": 21482917,
-      "PubMed": "27079802"
-    },
-    "url": "https://www.semanticscholar.org/paper/9e253630ce9dd2a62a8730793fc988d1b008f8e4",
-    "title": "Mechanism-driven biomarkers to guide immune checkpoint blockade in cancer therapy",
-    "abstract": null,
-    "year": 2016,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5381938",
-      "status": "GREEN",
-      "license": null,
-      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/nrc.2016.36?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/nrc.2016.36, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "5967910",
-        "name": "S. Topalian"
-      },
-      {
-        "authorId": "4039440",
-        "name": "J. Taube"
-      },
-      {
-        "authorId": "2022232",
-        "name": "R. Anders"
-      },
-      {
-        "authorId": "90461176",
-        "name": "D. Pardoll"
-      }
-    ]
-  },
-  {
-    "paperId": "fa9e7e5541f4f4304383fe3a987b7f3270363d98",
-    "externalIds": {
-      "MAG": "2167840686",
-      "DOI": "10.1016/S1474-4422(09)70299-6",
-      "CorpusId": 206159101,
-      "PubMed": "20083042"
-    },
-    "url": "https://www.semanticscholar.org/paper/fa9e7e5541f4f4304383fe3a987b7f3270363d98",
-    "title": "Hypothetical model of dynamic biomarkers of the Alzheimer's pathological cascade",
-    "abstract": null,
-    "year": 2010,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://europepmc.org/articles/pmc2819840?pdf=render",
-      "status": "GREEN",
-      "license": null,
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/S1474-4422(09)70299-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S1474-4422(09)70299-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "144402064",
-        "name": "C. Jack"
-      },
-      {
-        "authorId": "2254721488",
-        "name": "D. Knopman"
-      },
-      {
-        "authorId": "1789459",
-        "name": "W. Jagust"
-      },
-      {
-        "authorId": "143773376",
-        "name": "L. Shaw"
-      },
-      {
-        "authorId": "3989370",
-        "name": "P. Aisen"
-      },
-      {
-        "authorId": "2985407",
-        "name": "M. Weiner"
-      },
-      {
-        "authorId": "2580797",
-        "name": "R. Petersen"
-      },
-      {
-        "authorId": "2410201",
-        "name": "J. Trojanowski"
-      }
-    ]
-  },
-  {
-    "paperId": "7e3d1b20682a35ed8964c935b991f41a129dcf9c",
-    "externalIds": {
-      "MAG": "2796559433",
-      "DOI": "10.1038/s41576-018-0004-3",
-      "CorpusId": 4709691,
-      "PubMed": "29643443"
-    },
-    "url": "https://www.semanticscholar.org/paper/7e3d1b20682a35ed8964c935b991f41a129dcf9c",
-    "title": "DNA methylation-based biomarkers and the epigenetic clock theory of ageing",
-    "abstract": null,
-    "year": 2018,
+    "url": "https://www.semanticscholar.org/paper/719cafa404e972da8a88e815b232dabe3021df18",
+    "title": "The Historical, Psychosocial, and Cultural Context of Breastfeeding in the African American Community.",
+    "abstract": "Breastfeeding provides a range of benefits for the infant's growth, immunity, and development. It also has health benefits for the mother, including a reduced risk of premenopausal breast cancer, earlier return to prepregnancy weight, reduction of postpartum bleeding, and reduced risk of osteoporosis. There are a number of complex factors that influence the decision to initiate and continue breastfeeding, including those \"external\" to women, such as cultural beliefs. The cultural context and environment of decision making are illuminated through the prism of traditions and historical and cultural events. The ideology and sentiment of breastfeeding have changed during the course of history and have evolved within the African American community. Throughout the evolution of infant feeding practices, historical aftermaths have contributed to the legacy and emotional context of infant feeding trends. The tradition of wet nursing for African American women is inherently linked to white supremacy, slavery, medical racism and the physical, emotional, and mental abuse that enslaved African American women endured. Thus, the decision to breastfeed and the act of breastfeeding may remain deeply affected by the generational trauma of wet nursing during slavery. The associated negative connotation of wet nursing, slavery, and medical exploitation is one of the many nuanced cultural barriers that denies Black women and infants the many health benefits of breastfeeding.",
+    "year": 2021,
     "isOpenAccess": false,
     "openAccessPdf": {
       "url": "",
       "status": "CLOSED",
       "license": null,
-      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41576-018-0004-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41576-018-0004-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1089/bfm.2020.0316?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/bfm.2020.0316, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "144712285",
-        "name": "S. Horvath"
+        "authorId": "48267074",
+        "name": "V. Green"
       },
       {
-        "authorId": "144030540",
-        "name": "K. Raj"
+        "authorId": "2046975531",
+        "name": "Nekisha L Killings"
+      },
+      {
+        "authorId": "25639382",
+        "name": "C. Clare"
       }
     ]
   },
   {
-    "paperId": "2bca0a2c0730a4cd464e7a41e3dc2a59b14c6067",
+    "paperId": "ceaf6949aa3a38f0053cf4cc61cea960ba9fb66e",
     "externalIds": {
-      "PubMedCentral": "9807102",
-      "DOI": "10.1007/s00134-022-06956-y",
-      "CorpusId": 255387532,
-      "PubMed": "36592205"
+      "PubMedCentral": "7410280",
+      "MAG": "3042699722",
+      "DOI": "10.1089/heq.2020.0029",
+      "CorpusId": 221033637,
+      "PubMed": "32775941"
     },
-    "url": "https://www.semanticscholar.org/paper/2bca0a2c0730a4cd464e7a41e3dc2a59b14c6067",
-    "title": "How to use biomarkers of infection or sepsis at the bedside: guide to clinicians",
-    "abstract": "Sepsis is defined as a life-threatening organ dysfunction caused by a dysregulated host response to infection. In this context, biomarkers could be considered as indicators of either infection or dysregulated host response or response to treatment and/or aid clinicians to prognosticate patient risk. More than 250 biomarkers have been identified and evaluated over the last few decades, but no biomarker accurately differentiates between sepsis and sepsis-like syndrome. Published data support the use of biomarkers for pathogen identification, clinical diagnosis, and optimization of antibiotic treatment. In this narrative review, we highlight how clinicians could improve the use of pathogen-specific and of the most used host-response biomarkers, procalcitonin and C-reactive protein, to improve the clinical care of patients with sepsis. Biomarker kinetics are more useful than single values in predicting sepsis, when making the diagnosis and assessing the response to antibiotic therapy. Finally, integrated biomarker-guided algorithms may hold promise to improve both the diagnosis and prognosis of sepsis. Herein, we provide current data on the clinical utility of pathogen-specific and host-response biomarkers, offer guidance on how to optimize their use, and propose the needs for future research.",
-    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/ceaf6949aa3a38f0053cf4cc61cea960ba9fb66e",
+    "title": "COVID-19's Impact on the African American Community: A Stakeholder Engagement Approach to Increase Public Awareness Through Virtual Town Halls",
+    "abstract": "COVID-19 has created a rapidly evolving public health crisis disproportionately impacting African Americans due to persistent inequities. The changing COVID-19 guidelines have resulted in concerns expressed by the American public, including unique concerns expressed by African Americans. To increase COVID-19-related awareness and dialogue among the African American community, the University of Alabama at Birmingham School of Public Health and the Housing Association of the Birmingham District convened a virtual town hall. This process of stakeholder engagement underscored the importance of cross-disciplinary expertise and collaboration and of community education and outreach by trusted sources.",
+    "year": 2020,
     "isOpenAccess": true,
     "openAccessPdf": {
-      "url": "https://link.springer.com/content/pdf/10.1007/s00134-022-06956-y.pdf",
-      "status": "BRONZE",
-      "license": null,
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9807102, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "url": "https://doi.org/10.1089/heq.2020.0029",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7410280, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "143664495",
-        "name": "P. P\u00f3voa"
+        "authorId": "5502975",
+        "name": "F. Fletcher"
       },
       {
-        "authorId": "48450666",
-        "name": "L. Coelho"
+        "authorId": "11473932",
+        "name": "Shauntice Allen"
       },
       {
-        "authorId": "103766540",
-        "name": "F. Dal-Pizzol"
+        "authorId": "143709174",
+        "name": "S. Vickers"
       },
       {
-        "authorId": "38696624",
-        "name": "R. Ferrer"
+        "authorId": "83221123",
+        "name": "Thomas T. Beavers"
       },
       {
-        "authorId": "5091997",
-        "name": "A. Huttner"
+        "authorId": "1860295464",
+        "name": "Christopher M Hamlin"
       },
       {
-        "authorId": "123580432",
-        "name": "A. Conway Morris"
+        "authorId": "1860414110",
+        "name": "Dontrelle Young-Foster"
       },
       {
-        "authorId": "6045546",
-        "name": "V. Nobre"
+        "authorId": "1860301020",
+        "name": "Sherea Harris-Turner"
       },
       {
-        "authorId": "52491534",
-        "name": "P. Ram\u00edrez"
-      },
-      {
-        "authorId": "3588678",
-        "name": "A. Rouz\u00e9"
-      },
-      {
-        "authorId": "4298409",
-        "name": "J. Salluh"
-      },
-      {
-        "authorId": "3794143",
-        "name": "M. Singer"
-      },
-      {
-        "authorId": "3354469",
-        "name": "D. Sweeney"
-      },
-      {
-        "authorId": "1995012277",
-        "name": "A. Torres"
-      },
-      {
-        "authorId": "4469172",
-        "name": "G. Waterer"
-      },
-      {
-        "authorId": "5900183",
-        "name": "A. Kalil"
+        "authorId": "3552027",
+        "name": "P. Erwin"
       }
     ]
   },
   {
-    "paperId": "adff7973cbfefdf139758e2bc0f1b5fd8ad2fa3b",
+    "paperId": "41edf169f7684299c2dfc0f320a3072aa1875b33",
     "externalIds": {
-      "MAG": "2048244792",
-      "DOI": "10.1016/S1382-6689(02)00126-6",
-      "CorpusId": 34558488,
-      "PubMed": "21782649"
+      "MAG": "2806017312",
+      "DOI": "10.1007/s40615-018-0491-0",
+      "CorpusId": 46927997,
+      "PubMed": "29869005"
     },
-    "url": "https://www.semanticscholar.org/paper/adff7973cbfefdf139758e2bc0f1b5fd8ad2fa3b",
-    "title": "Fish bioaccumulation and biomarkers in environmental risk assessment: a review.",
+    "url": "https://www.semanticscholar.org/paper/41edf169f7684299c2dfc0f320a3072aa1875b33",
+    "title": "HIV/AIDS and the African-American Community 2018: a Decade Call to Action",
     "abstract": null,
+    "year": 2018,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8224540",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40615-018-0491-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40615-018-0491-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3690526",
+        "name": "C. Laurencin"
+      },
+      {
+        "authorId": "1486272496",
+        "name": "Christopher J. Murdock"
+      },
+      {
+        "authorId": "46244217",
+        "name": "L. Laurencin"
+      },
+      {
+        "authorId": "2685206",
+        "name": "Donna M. Christensen"
+      }
+    ]
+  },
+  {
+    "paperId": "b68e01c8491cbdc44cf2c2b6936fb7aea01706be",
+    "externalIds": {
+      "MAG": "2401532947",
+      "DOI": "10.1007/s10896-016-9819-x",
+      "CorpusId": 34560974
+    },
+    "url": "https://www.semanticscholar.org/paper/b68e01c8491cbdc44cf2c2b6936fb7aea01706be",
+    "title": "Intimate Partner Violence in the African American Community: Risk, Theory, and Interventions",
+    "abstract": null,
+    "year": 2016,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10896-016-9819-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10896-016-9819-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1466245256",
+        "name": "Shareefah Al-Uqdah"
+      },
+      {
+        "authorId": "38891145",
+        "name": "C. Maxwell"
+      },
+      {
+        "authorId": "16980864",
+        "name": "Nicholle A. Hill"
+      }
+    ]
+  },
+  {
+    "paperId": "81b19dab540d4b6973eb1689c3fe25ae4921ad89",
+    "externalIds": {
+      "MAG": "2604154840",
+      "DOI": "10.1093/fampra/cmx026",
+      "CorpusId": 3715751,
+      "PubMed": "28387794"
+    },
+    "url": "https://www.semanticscholar.org/paper/81b19dab540d4b6973eb1689c3fe25ae4921ad89",
+    "title": "Engaging African American women in research: an approach to eliminate health disparities in the African American community",
+    "abstract": "Objective\nTo explore the success of community-based participatory research [CBPR] in engaging African American women to achieve health equity by elucidating community, trust, communication and impact. Recommendations helpful for researchers interested in engaging communities to achieve health equity in the USA are included.\n\n\nInroduction\nAfrican American women experience health disparities of multifactorial etiology and are underrepresented in research. CBPR is a collaborative approach that incorporates perspectives, which address the intricate determinants of health and has been reported as an effective means to address health disparities. Yet, the science of CBPR seems elusive to researchers in the medical field. The opportunity exists to better understand and expand the use of the principles of engagement, replication, and sustainability in engaging African American women in health research.\n\n\nMethods\nA variety of literature regarding engaging African American women in community-based participatory research was reviewed.\n\n\nResults\nCBPR focused on robust engagement of marginalized groups continues to be validated as a vital approach to the elimination of disparities and improved health for all, especially ethnic and racial minority populations. However, limited evidence of focused engagement of African American women was found. Making specific outreach to African American women must be a community and patient engagement priority to achieve health equity.\n\n\nConclusions\nContinued research is needed which specifically focuses on building and sustaining engagement with African American women and their communities. This research can transform healthcare access, experiences and outcomes by yielding actionable information about what African American women need and want to promote wellness for themselves and their communities.",
+    "year": 2017,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "https://academic.oup.com/fampra/article-pdf/34/3/322/17695964/cmx026.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1093/fampra/cmx026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/fampra/cmx026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "13797107",
+        "name": "Joedrecka S. Brown Speights"
+      },
+      {
+        "authorId": "4261060",
+        "name": "A. Nowakowski"
+      },
+      {
+        "authorId": "50992676",
+        "name": "Jessica M. De Leon"
+      },
+      {
+        "authorId": "2067793587",
+        "name": "M. M. Mitchell"
+      },
+      {
+        "authorId": "49745389",
+        "name": "I. Simpson"
+      }
+    ]
+  },
+  {
+    "paperId": "719a8a6a9e6bc0712772971258147f09d89bf05d",
+    "externalIds": {
+      "DOI": "10.4324/9781003249016-3",
+      "CorpusId": 239519139
+    },
+    "url": "https://www.semanticscholar.org/paper/719a8a6a9e6bc0712772971258147f09d89bf05d",
+    "title": "The Northern African American Community",
+    "abstract": null,
+    "year": 2021,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.4324/9781003249016-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4324/9781003249016-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2114080223",
+        "name": "R. Young"
+      }
+    ]
+  },
+  {
+    "paperId": "905ef813f8d9ef59245fc04788e7dcf6771a0d32",
+    "externalIds": {
+      "MAG": "2135608365",
+      "DOI": "10.2105/AJPH.2013.301441",
+      "CorpusId": 2375281,
+      "PubMed": "24228655"
+    },
+    "url": "https://www.semanticscholar.org/paper/905ef813f8d9ef59245fc04788e7dcf6771a0d32",
+    "title": "Network exposure and homicide victimization in an African American community.",
+    "abstract": "OBJECTIVES\nWe estimated the association of an individual's exposure to homicide in a social network and the risk of individual homicide victimization across a high-crime African American community.\n\n\nMETHODS\nCombining 5 years of homicide and police records, we analyzed a network of 3718 high-risk individuals that was created by instances of co-offending. We used logistic regression to model the odds of being a gunshot homicide victim by individual characteristics, network position, and indirect exposure to homicide.\n\n\nRESULTS\nForty-one percent of all gun homicides occurred within a network component containing less than 4% of the neighborhood's population. Network-level indicators reduced the association between individual risk factors and homicide victimization and improved the overall prediction of individual victimization. Network exposure to homicide was strongly associated with victimization: the closer one is to a homicide victim, the greater the risk of victimization. Regression models show that exposure diminished with social distance: each social tie removed from a homicide victim decreased one's odds of being a homicide victim by 57%.\n\n\nCONCLUSIONS\nRisk of homicide in urban areas is even more highly concentrated than previously thought. We found that most of the risk of gun violence was concentrated in networks of identifiable individuals. Understanding these networks may improve prediction of individual homicide victimization within disadvantaged communities.",
+    "year": 2014,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910040",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2105/AJPH.2013.301441?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2105/AJPH.2013.301441, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2336642",
+        "name": "A. Papachristos"
+      },
+      {
+        "authorId": "48042912",
+        "name": "Christopher Wildeman"
+      }
+    ]
+  },
+  {
+    "paperId": "fe53c6490558a37e8692596fe195ec47d6a10c2b",
+    "externalIds": {
+      "MAG": "2336093266",
+      "DOI": "10.1177/1049909116631776",
+      "CorpusId": 4726437,
+      "PubMed": "26878868"
+    },
+    "url": "https://www.semanticscholar.org/paper/fe53c6490558a37e8692596fe195ec47d6a10c2b",
+    "title": "The Desires of Their Hearts: The Multidisciplinary Perspectives of African Americans on End-of-Life Care in the African American Community",
+    "abstract": "Background: Studies have identified racial differences in advance care planning and use of hospice for care at the end of life. Multiple reasons for underuse among African American patients and their families have been proposed and deserve further exploration. Objective: The goal of this study was to examine perceptions of advance care planning, palliative care, and hospice among a diverse sample of African Americans with varying degrees of personal and professional experience with end-of-life care and use these responses to inform a culturally sensitive intervention to promote awareness of these options. Methods: Semistructured interviews and focus groups were conducted with African Americans who had varying degrees of experience and exposure to end-of-life care both personally and professionally. We conducted in-depth qualitative analyses of these interviews and focus group transcripts and determined that thematic saturation had been achieved. Results: Several themes emerged. Participants felt that advance care planning, palliative care, and hospice can be beneficial to African American patients and their families but identified specific barriers to completion of advance directives and hospice enrollment, including lack of knowledge, fear that these measures may hasten death or cause providers to deliver inadequate care, and perceived conflict with patients\u2019 faith and religious beliefs. Providers described approaches they use to address these barriers in their practices. Conclusion: Findings, which are consistent with and further elucidate those identified from previous research, will inform design of a culturally sensitive intervention to increase awareness and understanding of advance care planning, palliative care, and hospice among members of the African American community.",
+    "year": 2017,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc7292338?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/1049909116631776?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1049909116631776, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6654711",
+        "name": "Ramona L. Rhodes"
+      },
+      {
+        "authorId": "48177675",
+        "name": "Bryan Elwood"
+      },
+      {
+        "authorId": "2667815",
+        "name": "S. Lee"
+      },
+      {
+        "authorId": "3459253",
+        "name": "Jasmin A. Tiro"
+      },
+      {
+        "authorId": "2422330",
+        "name": "E. Halm"
+      },
+      {
+        "authorId": "14109101",
+        "name": "C. Skinner"
+      }
+    ]
+  },
+  {
+    "paperId": "2d31628d613a69d7d8a797a6b3f75897bc93395b",
+    "externalIds": {
+      "MAG": "2738353844",
+      "DOI": "10.1177/2056305116683205",
+      "CorpusId": 157100087
+    },
+    "url": "https://www.semanticscholar.org/paper/2d31628d613a69d7d8a797a6b3f75897bc93395b",
+    "title": "The Digital Barbershop: Blogs and Online Oral Culture Within the African American Community",
+    "abstract": "For African Americans, the legacy of oral communication within the community is being transferred to online spaces. Blogging provides a platform with features that mirror many of the components of the Black barbershop. The barber and beauty shop symbolize a space of retreat, wherein African Americans have formed alternate publics used to critique the dominant culture, foster resistance, and strengthen African American institutions. Analysis of nine African American\u2013authored blogs using a method of critical technocultural discourse analysis demonstrates that each blog used traditional Black rhetorical strategies while making modifications to contemporary goals. The strategies involve modifications made to traditional Black humor and folktales. The writing style is highly performative, yet relies upon participant interaction. This reliance on orality is a necessary force in the maintenance of cultural traditions that have long worked to assist in group definition and acts of resistance in political power struggles. By utilizing modified song, narrative, and fables to articulate resistance and craft African American identity, African American online oral culture persists as a strategy to house political discourse within the often hidden enclave spaces of the digital barbershop.",
+    "year": 2016,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/2056305116683205",
+      "status": "GOLD",
+      "license": "CCBYNC",
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/2056305116683205?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/2056305116683205, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "115653869",
+        "name": "C. Steele"
+      }
+    ]
+  },
+  {
+    "paperId": "c0d92c09f2250592ee43a5506bfbcecae2cea1fd",
+    "externalIds": {
+      "MAG": "2296179403",
+      "CorpusId": 39389937,
+      "PubMed": "26336653"
+    },
+    "url": "https://www.semanticscholar.org/paper/c0d92c09f2250592ee43a5506bfbcecae2cea1fd",
+    "title": "Community-based participatory research principles for the African American community.",
+    "abstract": null,
+    "year": 2015,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "authors": [
+      {
+        "authorId": "49742619",
+        "name": "Selina A Smith"
+      },
+      {
+        "authorId": "8024774",
+        "name": "M. Whitehead"
+      },
+      {
+        "authorId": "31576260",
+        "name": "Joyce Q Sheats"
+      },
+      {
+        "authorId": "3995686",
+        "name": "B. Ansa"
+      },
+      {
+        "authorId": "1825206",
+        "name": "S. Coughlin"
+      },
+      {
+        "authorId": "39009022",
+        "name": "D. Blumenthal"
+      }
+    ]
+  },
+  {
+    "paperId": "575f641de89b7325cbc41565b8be0489972cfa9a",
+    "externalIds": {
+      "MAG": "1970426485",
+      "DOI": "10.1353/cpr.2014.0053",
+      "CorpusId": 8050698,
+      "PubMed": "25727976"
+    },
+    "url": "https://www.semanticscholar.org/paper/575f641de89b7325cbc41565b8be0489972cfa9a",
+    "title": "Perceived Sources of Stress and Resilience in Men in an African American Community",
+    "abstract": "Background: Little is known about the perceived causes of stress and what strategies African American men use to promote resiliency. Participatory research approaches are recommended as an approach to engage minority communities. A key goal of participatory research is to shift the locus of control to community partners.Objective: To understand perceived sources of stress and tools used to promote resiliency in African American men in South Los Angeles.Methods: Our study utilized a community-partnered participatory research approach to collect and analyze open-ended responses from 295 African American men recruited at a local, cultural festival in Los Angeles using thematic analysis and the Levels of Racism framework.Results: Almost all men (93.2%) reported stress. Of those reporting stress, 60.8% reported finances and money and 43.2% reported racism as a specific cause. More than 60% (63.4%) reported that they perceived available sources of help to deal with stress. Of those noting a specific source of help for stress (n = 76), 42.1% identified religious faith. Almost all of participants (92.1%) mentioned specific sources of resiliency such as religion and family.Conclusions: Stress owing to psychosocial factors such as finances and racism are common among African American men. But, at the same time, most men found support for resiliency to ameliorate stress in religion and family. Future work to engage African American men around alleviating stress and supporting resiliency should both take into account the perceived causes of stress and incorporate culturally appropriate sources of resiliency support.",
+    "year": 2015,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc4361032?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1353/cpr.2014.0053?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1353/cpr.2014.0053, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "115169108",
+        "name": "Bowen Chung"
+      },
+      {
+        "authorId": "3739806",
+        "name": "M. Meldrum"
+      },
+      {
+        "authorId": "50314033",
+        "name": "F. Jones"
+      },
+      {
+        "authorId": "2111025405",
+        "name": "Anthony Brown"
+      },
+      {
+        "authorId": "37352337",
+        "name": "Loretta Jones"
+      }
+    ]
+  },
+  {
+    "paperId": "33eb1d00ad35d93499039b9f007c02044d89aaee",
+    "externalIds": {
+      "MAG": "2086691292",
+      "DOI": "10.1001/JAMA.284.19.2518",
+      "CorpusId": 45566589,
+      "PubMed": "11074786"
+    },
+    "url": "https://www.semanticscholar.org/paper/33eb1d00ad35d93499039b9f007c02044d89aaee",
+    "title": "Palliative and end-of-life care in the African American community.",
+    "abstract": "AFRICAN AMERICANS AND OTHER MINORITIES UNDERuse palliative and hospice care, even when they have access to this care. Statistics from the National Hospice and Palliative Care Organization indicate that African Americans represent 8% of patients who participate in hospice care, as compared with 83% whites. Explanations for the underutilization of palliative care and hospice services by African Americans has engendered much speculation, but few data have been collected to further the understanding of this important problem. To provide the basis for solutions to correct this current state of affairs, reliable data and a broader societal dialogue are needed. In response to this problem, the Initiative to Improve Palliative and End-of-Life Care in the African American Community was formed to delineate historical, social, cultural, ethical, economic, legal, health policy, and medical issues that appear to affect African Americans\u2019 attitudes toward, acceptance of, access to, and utilization of palliative care and hospice services. In February 2000, an interdisciplinary working group of African American scholars and professionals met to begin defining a research, education, and policy agenda for the improvement of end-of-life care for African American patients facing death. We offer this commentary to further this discussion.",
+    "year": 2000,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1001/JAMA.284.19.2518?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1001/JAMA.284.19.2518, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "49870898",
+        "name": "L. Crawley"
+      },
+      {
+        "authorId": "2252414777",
+        "name": "Richard Payne"
+      },
+      {
+        "authorId": "2252502704",
+        "name": "James Bolden"
+      },
+      {
+        "authorId": "28074433",
+        "name": "Terrie Reid Payne"
+      },
+      {
+        "authorId": "2252495895",
+        "name": "Patricia Washington"
+      },
+      {
+        "authorId": "2258311803",
+        "name": "September Williams"
+      }
+    ]
+  },
+  {
+    "paperId": "2ea1ee1e5a543c3237ffe0879c81aca360647dc9",
+    "externalIds": {
+      "MAG": "2163672797",
+      "DOI": "10.1080/10926770801925486",
+      "CorpusId": 73876035
+    },
+    "url": "https://www.semanticscholar.org/paper/2ea1ee1e5a543c3237ffe0879c81aca360647dc9",
+    "title": "Domestic Violence in the African American Community",
+    "abstract": "This article discusses intimate partner violence (IPV) as a major public health issue for women, in particular, African American women. The intersection of IPV and institutional racism doubly victimizes African American women as they try to break out of the cycle of violence. The research shows that IPV in the African American community is more common and violent than in the Caucasian community due to structural, cultural community, and situational contexts, overshadowed by institutional racism, that effect the romantic relationships of African American men and women. Research shows that the anger, hatred, and frustrations of African American men, caused by institutional racism, are being displaced onto their wives and lovers. Suggestions for intervention are presented.",
     "year": 2003,
     "isOpenAccess": false,
     "openAccessPdf": {
       "url": "",
       "status": "CLOSED",
       "license": null,
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/S1382-6689(02)00126-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S1382-6689(02)00126-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1080/10926770801925486?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10926770801925486, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "80570193",
-        "name": "R. van der Oost"
+        "authorId": "8271997",
+        "name": "R. Hampton"
       },
       {
-        "authorId": "40520257",
-        "name": "J. Beyer"
+        "authorId": "144919350",
+        "name": "W. Oliver"
       },
       {
-        "authorId": "144032887",
-        "name": "N. Vermeulen"
+        "authorId": "80737316",
+        "name": "Lucia Magarian"
       }
     ]
   },
   {
-    "paperId": "1e03d220a755a94d9732e2f51c3501c34ca76b58",
+    "paperId": "12900ce35c0d257d403601ed2965f4ebc69e5e1e",
     "externalIds": {
-      "MAG": "2897815318",
-      "DOI": "10.1126/science.aar3593",
-      "CorpusId": 52961845,
-      "PubMed": "30309915"
+      "MAG": "2060174394",
+      "DOI": "10.2307/2295494",
+      "CorpusId": 145013377
     },
-    "url": "https://www.semanticscholar.org/paper/1e03d220a755a94d9732e2f51c3501c34ca76b58",
-    "title": "Pan-tumor genomic biomarkers for PD-1 checkpoint blockade\u2013based immunotherapy",
-    "abstract": "Mining immunotherapy clinical trials Clinical trial data can provide a wealth of information about how drugs work. Yet such information often belongs to pharmaceutical companies and is rarely accessible to the scientific community at large. Cristescu et al. provide exploratory analysis of a cancer genomics dataset, collected from four separate clinical trials of Merck's PD-1 immunotherapy drug, pembrolizumab. This informative public resource examines more than 300 patient samples representing 22 different tumor types. Two widely used signatures that currently predict immunotherapy response are tumor mutational burden and a \u201chot\u201d T cell\u2013inflamed microenvironment. The study analyzed these two proposed biomarkers in combination to see what predictive clinical utility they may hold. Science, this issue p. eaar3593 Genomic biomarkers will help to elucidate which cancer patients will benefit from PD-1 blockade immunotherapy. INTRODUCTION Immunotherapy targeting the programmed cell death protein\u20131 (PD-1) axis elicits durable antitumor responses in multiple cancer types. However, clinical responses vary, and biomarkers predictive of response may help to identify patients who will derive the greatest therapeutic benefit. Clinically validated biomarkers predictive of response to the anti\u2013PD-1 monoclonal antibody pembrolizumab include PD-1 ligand 1 (PD-L1) expression in specific cancers and high microsatellite instability (MSI-H) regardless of tumor type. Tumor mutational burden (TMB) and T cell\u2013inflamed gene expression profile (GEP) are emerging predictive biomarkers for pembrolizumab. Both PD-L1 and GEP are inflammatory biomarkers indicative of a T cell\u2013inflamed tumor microenvironment (TME), whereas TMB and MSI-H are indirect measures of tumor antigenicity generated by somatic tumor mutations. However, the relationship between these two categories of biomarkers is not well characterized. RATIONALE This study assessed the potential for TMB and a T cell\u2013inflamed GEP to jointly predict clinical response to pembrolizumab in >300 patient samples with advanced solid tumors and melanoma across 22 tumor types from four KEYNOTE clinical trials. To assess the individual and joint clinical utility of TMB and GEP, patients were stratified in four biomarker-defined clinical response groups [GEP low and TMB low (GEPlo TMBlo), GEP low and TMB high (GEPlo TMBhi), GEPhi TMBlo, and GEPhi TMBhi] based on predefined cutoffs for TMB and GEP. These patient-defined biomarker groups were further used to guide transcriptome and exome analyses of tumors in a large molecular database [The Cancer Genome Atlas (TCGA)] (n = 6384 tumors) to identify targetable patterns of biology that may modulate response and resistance. RESULTS TMB and GEP exhibited only modest correlation and were independently predictive of response across the KEYNOTE clinical datasets. We found that objective response rates were strongest in patients with GEPhi TMBhi (37 to 57%), moderate in those with GEPhi TMBlo (12 to 35%) and GEPlo TMBhi (11 to 42%), and reduced or absent in those with GEPlo TMBlo (0 to 9%) (see the figure). Additionally, longer progression-free survival times were seen in patients with higher levels of both TMB and GEP. Findings were comparable when TMB and PD-L1 expression were jointly assessed. Within TCGA database, GEP and TMB again had a low correlation, demonstrating the potential to jointly stratify transcriptomic and genomic features across cancer types. Specific gene expression patterns reflective of TME biology showed significant associations with TMB, GEP, or both. In particular, gene set enrichment analysis identified proliferative and stromal, myeloid, and vascular biology corresponding to specific TMB-defined subgroups within GEPhi tumors. In TMBhi tumors, indication-dependent somatic DNA alterations in key cancer driver genes showed a strong negative association with GEP. CONCLUSION This analysis shows that TMB and inflammatory biomarkers (T cell\u2013inflamed GEP and PD-L1 expression) can jointly stratify human cancers into groups with different clinical responses to pembrolizumab monotherapy and identify patterns of underlying, targetable biology related to these groups. TMB and inflammatory biomarkers independently predict response and may capture distinct features of neoantigenicity and T cell activation, respectively. This approach may provide a precision medicine framework for rationally constructing and evaluating anti\u2013PD-1\u2013 and/or \u2013PD-L1\u2013based combination therapy regimens. Biomarker-defined responses to pembrolizumab monotherapy identify targetable-resistance biology. (A) Tumors have low TMB and low neoantigenicity and lack a T cell\u2013inflamed TME. (B) Tumors can evade the immune response despite high TMB and high neoantigenicity. (C) Although T cells are present, stromal and/or endothelial factors in the TME, low TMB, and low neoantigenicity impede their activity. (D) Tumors have high TMB, high neoantigenicity, and a T cell\u2013inflamed TME, typified by activated T cells and other immune cells with cytolytic roles. Programmed cell death protein\u20131 (PD-1) and programmed cell death ligand\u20131 (PD-L1) checkpoint blockade immunotherapy elicits durable antitumor effects in multiple cancers, yet not all patients respond. We report the evaluation of >300 patient samples across 22 tumor types from four KEYNOTE clinical trials. Tumor mutational burden (TMB) and a T cell\u2013inflamed gene expression profile (GEP) exhibited joint predictive utility in identifying responders and nonresponders to the PD-1 antibody pembrolizumab. TMB and GEP were independently predictive of response and demonstrated low correlation, suggesting that they capture distinct features of neoantigenicity and T cell activation. Analysis of The Cancer Genome Atlas database showed TMB and GEP to have a low correlation, and analysis by joint stratification revealed biomarker-defined patterns of targetable-resistance biology. These biomarkers may have utility in clinical trial design by guiding rational selection of anti\u2013PD-1 monotherapy and combination immunotherapy regimens.",
-    "year": 2018,
-    "isOpenAccess": true,
+    "url": "https://www.semanticscholar.org/paper/12900ce35c0d257d403601ed2965f4ebc69e5e1e",
+    "title": "The Church, the Family, and the School in the African American Community.",
+    "abstract": "This article focuses on the church as a social institution and examines how it interacts with and influences two other important social institutions in society (as identified by Moberg, 1962)-the family and the school. Historically, the church, the family, and the school are the three most critical institutions whose interactions have been responsible for the viability of the African American community (Roberts, 1980). The strengths of these three institutions are due in large measure to their function as expressions of the most basic values of the African American cultural heritage. These values include spirituality, high achievement aspirations, and commitment to family as enduring, flexible and adaptive functional mechanisms for survival (Billingsley, in press). We pursued this study using a holistic perspective inspired in part by DuBois (1898). This perspective recognizes that all three aggregations-the church, the school, and the family-operate within the domain of the larger society as socializing agents and are shaped by their own historical foundations. In this article we discuss the church's role in assisting families in need and in supporting educational institutions. The data presented herein are based on an ongoing, nationwide, multi-year study of the family-oriented community outreach programs that Black churches sponsor to assist those in need. Preliminary findings from a representative sample of 315 Black churches in the northeastern region of the country will be presented. Before turning to the details of this study, however, a brief discussion of the nature of these principal institutions will be set forth.",
+    "year": 1991,
+    "isOpenAccess": false,
     "openAccessPdf": {
-      "url": "https://europepmc.org/articles/pmc6718162?pdf=render",
-      "status": "GREEN",
-      "license": "CCBYNCND",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.aar3593?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.aar3593, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "48203390",
-        "name": "R. Cristescu"
-      },
-      {
-        "authorId": "35841453",
-        "name": "R. Mogg"
-      },
-      {
-        "authorId": "123384682",
-        "name": "M. Ayers"
-      },
-      {
-        "authorId": "49990695",
-        "name": "Andrew Albright"
-      },
-      {
-        "authorId": "152954853",
-        "name": "E. Murphy"
-      },
-      {
-        "authorId": "6010624",
-        "name": "J. Yearley"
-      },
-      {
-        "authorId": "5656961",
-        "name": "Xinwei Sher"
-      },
-      {
-        "authorId": "36536953",
-        "name": "Xiao Qiao Liu"
-      },
-      {
-        "authorId": "46386380",
-        "name": "Hongchao Lu"
-      },
-      {
-        "authorId": "49158398",
-        "name": "M. Nebozhyn"
-      },
-      {
-        "authorId": "23135689",
-        "name": "Chunsheng Zhang"
-      },
-      {
-        "authorId": "4839384",
-        "name": "J. Lunceford"
-      },
-      {
-        "authorId": "3260574",
-        "name": "A. Joe"
-      },
-      {
-        "authorId": "2116851183",
-        "name": "Jonathan C Cheng"
-      },
-      {
-        "authorId": "33602182",
-        "name": "A. Webber"
-      },
-      {
-        "authorId": "2121365",
-        "name": "N. Ibrahim"
-      },
-      {
-        "authorId": "4120419",
-        "name": "E. Plimack"
-      },
-      {
-        "authorId": "34929113",
-        "name": "P. Ott"
-      },
-      {
-        "authorId": "2404421",
-        "name": "T. Seiwert"
-      },
-      {
-        "authorId": "145332493",
-        "name": "A. Ribas"
-      },
-      {
-        "authorId": "2484696",
-        "name": "T. Mcclanahan"
-      },
-      {
-        "authorId": "72439752",
-        "name": "J. Tomassini"
-      },
-      {
-        "authorId": "143910195",
-        "name": "A. Loboda"
-      },
-      {
-        "authorId": "50352888",
-        "name": "D. Kaufman"
-      }
-    ]
-  },
-  {
-    "paperId": "815e37b1e5fe442367a3c1870986d53f6b91b054",
-    "externalIds": {
-      "MAG": "2914335731",
-      "DOI": "10.1038/s41568-019-0116-x",
-      "CorpusId": 60442151,
-      "PubMed": "30755690"
-    },
-    "url": "https://www.semanticscholar.org/paper/815e37b1e5fe442367a3c1870986d53f6b91b054",
-    "title": "The evolving landscape of biomarkers for checkpoint inhibitor immunotherapy",
-    "abstract": null,
-    "year": 2019,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6705396",
-      "status": "GREEN",
+      "url": "",
+      "status": "CLOSED",
       "license": null,
-      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41568-019-0116-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41568-019-0116-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2307/2295494?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2307/2295494, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "6057547",
-        "name": "J. Havel"
+        "authorId": "48604565",
+        "name": "A. Billingsley"
       },
       {
-        "authorId": "6113163",
-        "name": "D. Chowell"
-      },
-      {
-        "authorId": "2234300666",
-        "name": "T. Chan"
+        "authorId": "6154486",
+        "name": "C. Caldwell"
       }
     ]
   },
   {
-    "paperId": "6dac70eb889fa38bbc0e1585ac5b5eadf33d3dbb",
+    "paperId": "da18c563f632e7b1855cb207da6579fb70be38a1",
     "externalIds": {
-      "PubMedCentral": "6292890",
-      "MAG": "2903686952",
-      "DOI": "10.1038/s12276-018-0191-1",
-      "CorpusId": 54865756,
-      "PubMed": "30546008"
+      "MAG": "2101672147",
+      "DOI": "10.1177/1043659608322502",
+      "CorpusId": 45699275,
+      "PubMed": "18650398"
     },
-    "url": "https://www.semanticscholar.org/paper/6dac70eb889fa38bbc0e1585ac5b5eadf33d3dbb",
-    "title": "Immune checkpoint inhibitors: recent progress and potential biomarkers",
-    "abstract": "Cancer growth and progression are associated with immune suppression. Cancer cells have the ability to activate different immune checkpoint pathways that harbor immunosuppressive functions. Monoclonal antibodies that target immune checkpoints provided an immense breakthrough in cancer therapeutics. Among the immune checkpoint inhibitors, PD-1/PD-L1 and CTLA-4 inhibitors showed promising therapeutic outcomes, and some have been approved for certain cancer treatments, while others are under clinical trials. Recent reports have shown that patients with various malignancies benefit from immune checkpoint inhibitor treatment. However, mainstream initiation of immune checkpoint therapy to treat cancers is obstructed by the low response rate and immune-related adverse events in some cancer patients. This has given rise to the need for developing sets of biomarkers that predict the response to immune checkpoint blockade and immune-related adverse events. In this review, we discuss different predictive biomarkers for anti-PD-1/PD-L1 and anti-CTLA-4 inhibitors, including immune cells, PD-L1 overexpression, neoantigens, and genetic and epigenetic signatures. Potential approaches for further developing highly reliable predictive biomarkers should facilitate patient selection for and decision-making related to immune checkpoint inhibitor-based therapies. Biomarkers that predict a patient\u2019s response to cancer immunotherapy are being developed, and may allow individual tailoring of therapies. Cancer cells can suppress the immune system by activating immune checkpoints, signals that stop the immune system from attacking the host. Immunotherapy, a recently developed treatment, inactivates immune checkpoints, restoring the patient\u2019s immune response against the tumor. Although promising, immunotherapy has a low response rate, and sometimes triggers severe auto-immune reactions. Eyad Elkord at Qatar Biomedical Research Institute in Qatar and coworkers have reviewed biomarkers that could be used to predict individual effects of immunotherapy, identifying nonresponders and preventing adverse immune reactions. They discuss markers based on factors such as immune response level and individual tumor genetics, among others. With further research and testing, these biomarkers could improve the efficacy of this promising new cancer therapy.",
-    "year": 2018,
-    "isOpenAccess": true,
+    "url": "https://www.semanticscholar.org/paper/da18c563f632e7b1855cb207da6579fb70be38a1",
+    "title": "Church and Spirituality in the Lives of the African American Community",
+    "abstract": "The African American church is held in the highest esteem by most African Americans. Although the influence of the African American church has been underestimated by physicians and nurses, it could be pivotal in optimizing health status among African Americans. Because of this influence, health care practitioners, including nurses, are now recognizing the important role that the African American church plays in improving the health status of individuals in the African American community. This article illuminates the health and health care concerns of the African American community by considering the traditional lack of equal access for this population and the role that the church can play in not only offering church-based health care services but also improving the health status of church congregations. Future roles of the African American church for improved health status are also suggested.",
+    "year": 2008,
+    "isOpenAccess": false,
     "openAccessPdf": {
-      "url": "https://www.nature.com/articles/s12276-018-0191-1.pdf",
-      "status": "GOLD",
-      "license": "CCBY",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6292890, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/1043659608322502?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1043659608322502, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "3759601",
-        "name": "Pramod Darvin"
+        "authorId": "5764995",
+        "name": "J. Giger"
       },
       {
-        "authorId": "49730140",
-        "name": "S. Toor"
+        "authorId": "3854488",
+        "name": "S. Appel"
       },
       {
-        "authorId": "33103456",
-        "name": "V. Sasidharan Nair"
+        "authorId": "5599159",
+        "name": "R. Davidhizar"
       },
       {
-        "authorId": "6217791",
-        "name": "E. Elkord"
+        "authorId": "6285204",
+        "name": "C. Davis"
       }
     ]
   },
   {
-    "paperId": "d46fcc89adce91f1324fbb08a788268548e9cc7d",
+    "paperId": "71590feac572bf0a8fec8d4fd29cfddd44ad15bd",
     "externalIds": {
-      "MAG": "2097233439",
-      "DOI": "10.1038/cr.2008.282",
-      "CorpusId": 15939315,
-      "PubMed": "18766170"
+      "MAG": "2068324254",
+      "DOI": "10.2105/AJPH.2007.125062",
+      "CorpusId": 23370806,
+      "PubMed": "18633087"
     },
-    "url": "https://www.semanticscholar.org/paper/d46fcc89adce91f1324fbb08a788268548e9cc7d",
-    "title": "Characterization of microRNAs in serum: a novel class of biomarkers for diagnosis of cancer and other diseases",
-    "abstract": null,
+    "url": "https://www.semanticscholar.org/paper/71590feac572bf0a8fec8d4fd29cfddd44ad15bd",
+    "title": "Improving health behaviors in an African American community: the Charlotte Racial and Ethnic Approaches to Community Health project.",
+    "abstract": "OBJECTIVES\nWe examined the effect on 3 behavioral risk factors for heart disease and diabetes (low fruit and vegetable consumption, low physical activity, and cigarette smoking) of an intervention in an African American community in North Carolina.\n\n\nMETHODS\nA community coalition, a lay health advisor program, and policy and community environment change strategies were implemented in a community of 20,000 African Americans in 2001 to 2005. Health behavior questions from the Behavioral Risk Factor Surveillance System survey were administered to a cross-section of the community annually. The results were compared with African Americans' responses from a statewide survey.\n\n\nRESULTS\nAll 3 health behaviors improved in the study population. Improvements were statistically significant for physical activity (P=.02) and smoking (P=.03) among women and for physical activity among middle-aged adults (P=.01). Lower baseline physical activity rates improved to levels comparable to those of African Americans statewide (2001, P<.001; 2005, P=.38), and comparable fruit and vegetable consumption rates became significantly higher (2001, P=.68; 2005, P<.001).\n\n\nCONCLUSIONS\nOur findings support the emerging role of policy and community environment change strategies and community participation as promising practices to improve health behaviors in African American communities and to reduce health disparities.",
     "year": 2008,
     "isOpenAccess": true,
     "openAccessPdf": {
-      "url": "https://www.nature.com/articles/cr2008282.pdf",
-      "status": "BRONZE",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2509594",
+      "status": "GREEN",
       "license": null,
-      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/cr.2008.282?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/cr.2008.282, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.2105/AJPH.2007.125062?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2105/AJPH.2007.125062, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "1683647",
-        "name": "X. Chen"
+        "authorId": "4214810",
+        "name": "M. Plescia"
       },
       {
-        "authorId": "48431366",
-        "name": "Y. Ba"
+        "authorId": "3663551",
+        "name": "H. Herrick"
       },
       {
-        "authorId": "50709862",
-        "name": "Lijia Ma"
-      },
-      {
-        "authorId": "48810458",
-        "name": "Xing Cai"
-      },
-      {
-        "authorId": "46524722",
-        "name": "Yuan Yin"
-      },
-      {
-        "authorId": "47373317",
-        "name": "Kehui Wang"
-      },
-      {
-        "authorId": "47093199",
-        "name": "Jigang Guo"
-      },
-      {
-        "authorId": "2108258206",
-        "name": "Yujing Zhang"
-      },
-      {
-        "authorId": "81677274",
-        "name": "Jiangning Chen"
-      },
-      {
-        "authorId": "2146368798",
-        "name": "Xing Guo"
-      },
-      {
-        "authorId": "2108229018",
-        "name": "Qibin Li"
-      },
-      {
-        "authorId": "2108747646",
-        "name": "Xiaoying Li"
-      },
-      {
-        "authorId": "2117833176",
-        "name": "Wenjing Wang"
-      },
-      {
-        "authorId": "2152820813",
-        "name": "Yan Zhang"
-      },
-      {
-        "authorId": "2143718014",
-        "name": "Jin Wang"
-      },
-      {
-        "authorId": "4749776",
-        "name": "Xue-yuan Jiang"
-      },
-      {
-        "authorId": "2068337830",
-        "name": "Yang Xiang"
-      },
-      {
-        "authorId": "2153078919",
-        "name": "Chen Xu"
-      },
-      {
-        "authorId": "49721245",
-        "name": "Pingping Zheng"
-      },
-      {
-        "authorId": "2108138079",
-        "name": "Juanbin Zhang"
-      },
-      {
-        "authorId": "47370196",
-        "name": "Ruiqiang Li"
-      },
-      {
-        "authorId": "2108699175",
-        "name": "Hongjie Zhang"
-      },
-      {
-        "authorId": "47292032",
-        "name": "Xiaobin Shang"
-      },
-      {
-        "authorId": "153755434",
-        "name": "Ting Gong"
-      },
-      {
-        "authorId": "3213325",
-        "name": "G. Ning"
-      },
-      {
-        "authorId": "2152811076",
-        "name": "Jun Wang"
-      },
-      {
-        "authorId": "145712130",
-        "name": "Ke Zen"
-      },
-      {
-        "authorId": "2144136884",
-        "name": "Junfeng Zhang"
-      },
-      {
-        "authorId": "2111338385",
-        "name": "Chen-Yu Zhang"
+        "authorId": "122859885",
+        "name": "L. Chavis"
       }
     ]
   },
   {
-    "paperId": "11da0c62b5131f75cbe782466498649bb9972d3f",
+    "paperId": "6f6de99bc4cd7cb261a41a0fa1e73d723df766c1",
     "externalIds": {
-      "MAG": "2767571575",
-      "DOI": "10.1016/S1474-4422(12)70291-0",
-      "CorpusId": 206160801,
-      "PubMed": "23332364"
+      "MAG": "2116041114",
+      "DOI": "10.1177/1088767913497949",
+      "CorpusId": 145751014
     },
-    "url": "https://www.semanticscholar.org/paper/11da0c62b5131f75cbe782466498649bb9972d3f",
-    "title": "Tracking pathophysiological processes in Alzheimer's disease: an updated hypothetical model of dynamic biomarkers",
-    "abstract": null,
+    "url": "https://www.semanticscholar.org/paper/6f6de99bc4cd7cb261a41a0fa1e73d723df766c1",
+    "title": "Domestic Violence Fatality Reviews and the African American Community",
+    "abstract": "Cultural competence is important to the domestic violence fatality review process. This article reviews current knowledge about cultural competence for Black women abused by men in the United States, with suggested implications for domestic violence fatality review teams (DVFRTs). Help-seeking behaviors, coping strategies, historical context, and cultural values within the African American community are explored. These areas are further examined using a framework inclusive of the structure, goals, processes, outcomes, and barriers of DVFRTs. The implications for how DVFRTs can utilize this information are discussed.",
     "year": 2013,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://escholarship.org/content/qt2p0839fm/qt2p0839fm.pdf?t=rsr23v",
-      "status": "GREEN",
-      "license": "other-oa",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1016/S1474-4422(12)70291-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S1474-4422(12)70291-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "144402064",
-        "name": "C. Jack"
-      },
-      {
-        "authorId": "2254721488",
-        "name": "D. Knopman"
-      },
-      {
-        "authorId": "1789459",
-        "name": "W. Jagust"
-      },
-      {
-        "authorId": "2580797",
-        "name": "R. Petersen"
-      },
-      {
-        "authorId": "2985407",
-        "name": "M. Weiner"
-      },
-      {
-        "authorId": "3989370",
-        "name": "P. Aisen"
-      },
-      {
-        "authorId": "143773376",
-        "name": "L. Shaw"
-      },
-      {
-        "authorId": "2728840",
-        "name": "P. Vemuri"
-      },
-      {
-        "authorId": "4055427",
-        "name": "H. Wiste"
-      },
-      {
-        "authorId": "2443264",
-        "name": "S. Weigand"
-      },
-      {
-        "authorId": "5473303",
-        "name": "T. Lesnick"
-      },
-      {
-        "authorId": "5043428",
-        "name": "V. Pankratz"
-      },
-      {
-        "authorId": "1973436",
-        "name": "M. Donohue"
-      },
-      {
-        "authorId": "2410201",
-        "name": "J. Trojanowski"
-      }
-    ]
-  },
-  {
-    "paperId": "70e6d4102a978a4763db9168ed2498099bdd6cca",
-    "externalIds": {
-      "PubMedCentral": "8740483",
-      "DOI": "10.1186/s13054-021-03862-5",
-      "CorpusId": 245774131,
-      "PubMed": "34991675"
-    },
-    "url": "https://www.semanticscholar.org/paper/70e6d4102a978a4763db9168ed2498099bdd6cca",
-    "title": "Biomarkers for sepsis: more than just fever and leukocytosis\u2014a narrative review",
-    "abstract": "A biomarker describes a measurable indicator of a patient's clinical condition that can be measured accurately and reproducibly. Biomarkers offer utility for diagnosis, prognosis, early disease recognition, risk stratification, appropriate treatment (theranostics), and trial enrichment for patients with sepsis or suspected sepsis. In this narrative review, we aim to answer the question, \"Do biomarkers in patients with sepsis or septic shock predict mortality, multiple organ dysfunction syndrome (MODS), or organ dysfunction?\" We also discuss the role of pro- and anti-inflammatory biomarkers and biomarkers associated with intestinal permeability, endothelial injury, organ dysfunction, blood\u2013brain barrier (BBB) breakdown, brain injury, and short and long-term mortality. For sepsis, a range of biomarkers is identified, including fluid phase pattern recognition molecules (PRMs), complement system, cytokines, chemokines, damage-associated molecular patterns (DAMPs), non-coding RNAs, miRNAs, cell membrane receptors, cell proteins, metabolites, and soluble receptors. We also provide an overview of immune response biomarkers that can help identify or differentiate between systemic inflammatory response syndrome (SIRS), sepsis, septic shock, and sepsis-associated encephalopathy. However, significant work is needed to identify the optimal combinations of biomarkers that can augment diagnosis, treatment, and good patient outcomes.",
-    "year": 2022,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8740483",
-      "status": "GREEN",
-      "license": "CCBY",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8740483, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "4941871",
-        "name": "T. Barichello"
-      },
-      {
-        "authorId": "6393799",
-        "name": "J. Generoso"
-      },
-      {
-        "authorId": "3794143",
-        "name": "M. Singer"
-      },
-      {
-        "authorId": "103766540",
-        "name": "F. Dal-Pizzol"
-      }
-    ]
-  },
-  {
-    "paperId": "828bf9dacec23ba560e69331d4f49647b22f2014",
-    "externalIds": {
-      "PubMedCentral": "9331210",
-      "DOI": "10.3390/biom12081021",
-      "CorpusId": 251083324,
-      "PubMed": "35892331"
-    },
-    "url": "https://www.semanticscholar.org/paper/828bf9dacec23ba560e69331d4f49647b22f2014",
-    "title": "Molecular Biomarkers in Cancer",
-    "abstract": "Molecular cancer biomarkers are any measurable molecular indicator of risk of cancer, occurrence of cancer, or patient outcome. They may include germline or somatic genetic variants, epigenetic signatures, transcriptional changes, and proteomic signatures. These indicators are based on biomolecules, such as nucleic acids and proteins, that can be detected in samples obtained from tissues through tumor biopsy or, more easily and non-invasively, from blood (or serum or plasma), saliva, buccal swabs, stool, urine, etc. Detection technologies have advanced tremendously over the last decades, including techniques such as next-generation sequencing, nanotechnology, or methods to study circulating tumor DNA/RNA or exosomes. Clinical applications of biomarkers are extensive. They can be used as tools for cancer risk assessment, screening and early detection of cancer, accurate diagnosis, patient prognosis, prediction of response to therapy, and cancer surveillance and monitoring response. Therefore, they can help to optimize making decisions in clinical practice. Moreover, precision oncology is needed for newly developed targeted therapies, as they are functional only in patients with specific cancer genetic mutations, and biomarkers are the tools used for the identification of these subsets of patients. Improvement in the field of cancer biomarkers is, however, needed to overcome the scientific challenge of developing new biomarkers with greater sensitivity, specificity, and positive predictive value.",
-    "year": 2022,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.mdpi.com/2218-273X/12/8/1021/pdf?version=1658809097",
-      "status": "GOLD",
-      "license": "CCBY",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9331210, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "4524491",
-        "name": "V. Sarhadi"
-      },
-      {
-        "authorId": "3516077",
-        "name": "G. Armengol"
-      }
-    ]
-  },
-  {
-    "paperId": "4be5137074634e33d9fc84937fe7c81d2ec114cb",
-    "externalIds": {
-      "PubMedCentral": "8757397",
-      "DOI": "10.1038/s41569-021-00665-7",
-      "CorpusId": 245917518,
-      "PubMed": "35027697"
-    },
-    "url": "https://www.semanticscholar.org/paper/4be5137074634e33d9fc84937fe7c81d2ec114cb",
-    "title": "Current and novel biomarkers of thrombotic risk in COVID-19: a Consensus Statement from the International COVID-19 Thrombosis Biomarkers Colloquium",
-    "abstract": "Coronavirus disease 2019 (COVID-19) predisposes patients to thrombotic and thromboembolic events, owing to excessive inflammation, endothelial cell activation and injury, platelet activation and hypercoagulability. Patients with COVID-19 have a prothrombotic or thrombophilic state, with elevations in the levels of several biomarkers of thrombosis, which are associated with disease severity and prognosis. Although some biomarkers of COVID-19-associated coagulopathy, including high levels of fibrinogen and d-dimer, were recognized early during the pandemic, many new biomarkers of thrombotic risk in COVID-19 have emerged. In this Consensus Statement, we delineate the thrombotic signature of COVID-19 and present the latest biomarkers and platforms to assess the risk of thrombosis in these patients, including markers of platelet activation, platelet aggregation, endothelial cell activation or injury, coagulation and fibrinolysis as well as biomarkers of the newly recognized post-vaccine thrombosis with thrombocytopenia syndrome. We then make consensus recommendations for the clinical use of these biomarkers to inform prognosis, assess disease acuity, and predict thrombotic risk and in-hospital mortality. A thorough understanding of these biomarkers might aid risk stratification and prognostication, guide interventions and provide a platform for future research. In this Consensus Statement, the authors delineate the thrombotic signature of COVID-19 and present the latest biomarkers and platforms to assess thrombotic risk in these patients. Consensus recommendations are made about the clinical use of these biomarkers to inform prognosis, assess disease acuity, and predict thrombosis and in-hospital mortality.",
-    "year": 2022,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.nature.com/articles/s41569-021-00665-7.pdf",
-      "status": "BRONZE",
-      "license": null,
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8757397, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "6006854",
-        "name": "Diana A Gorog"
-      },
-      {
-        "authorId": "101447360",
-        "name": "R. Storey"
-      },
-      {
-        "authorId": "5301475",
-        "name": "P. Gurbel"
-      },
-      {
-        "authorId": "6928491",
-        "name": "U. Tantry"
-      },
-      {
-        "authorId": "4048223",
-        "name": "J. Berger"
-      },
-      {
-        "authorId": "2067822296",
-        "name": "M. Chan"
-      },
-      {
-        "authorId": "2295733",
-        "name": "D. Duerschmied"
-      },
-      {
-        "authorId": "1907386",
-        "name": "S. Smyth"
-      },
-      {
-        "authorId": "145632620",
-        "name": "William A. E. Parker"
-      },
-      {
-        "authorId": "4428916",
-        "name": "R. Ajjan"
-      },
-      {
-        "authorId": "6284893",
-        "name": "G. Vilahur"
-      },
-      {
-        "authorId": "143820905",
-        "name": "L. Badim\u00f3n"
-      },
-      {
-        "authorId": "50319587",
-        "name": "J. Berg"
-      },
-      {
-        "authorId": "144055143",
-        "name": "H. Cate"
-      },
-      {
-        "authorId": "4723353",
-        "name": "F. Peyvandi"
-      },
-      {
-        "authorId": "144130941",
-        "name": "Taia T. Wang"
-      },
-      {
-        "authorId": "2748204",
-        "name": "R. Becker"
-      }
-    ]
-  },
-  {
-    "paperId": "5f83708bef9238b863d112b74f89c9e58c1084fe",
-    "externalIds": {
-      "PubMedCentral": "9221336",
-      "DOI": "10.3390/biom12060824",
-      "CorpusId": 249700732,
-      "PubMed": "35740949"
-    },
-    "url": "https://www.semanticscholar.org/paper/5f83708bef9238b863d112b74f89c9e58c1084fe",
-    "title": "NAFLD: Mechanisms, Treatments, and Biomarkers",
-    "abstract": "Nonalcoholic fatty liver disease (NAFLD), recently renamed metabolic-associated fatty liver disease (MAFLD), is one of the most common causes of liver diseases worldwide. NAFLD is growing in parallel with the obesity epidemic. No pharmacological treatment is available to treat NAFLD, specifically. The reason might be that NAFLD is a multi-factorial disease with an incomplete understanding of the mechanisms involved, an absence of accurate and inexpensive imaging tools, and lack of adequate non-invasive biomarkers. NAFLD consists of the accumulation of excess lipids in the liver, causing lipotoxicity that might progress to metabolic-associated steatohepatitis (NASH), liver fibrosis, and hepatocellular carcinoma. The mechanisms for the pathogenesis of NAFLD, current interventions in the management of the disease, and the role of sirtuins as potential targets for treatment are discussed here. In addition, the current diagnostic tools, and the role of non-coding RNAs as emerging diagnostic biomarkers are summarized. The availability of non-invasive biomarkers, and accurate and inexpensive non-invasive diagnosis tools are crucial in the detection of the early signs in the progression of NAFLD. This will expedite clinical trials and the validation of the emerging therapeutic treatments.",
-    "year": 2022,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.mdpi.com/2218-273X/12/6/824/pdf?version=1655689489",
-      "status": "GOLD",
-      "license": "CCBY",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9221336, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "5062895",
-        "name": "F. Nassir"
-      }
-    ]
-  },
-  {
-    "paperId": "25905b2206e7bec85fe21d020be29df95f1303be",
-    "externalIds": {
-      "DBLP": "journals/bib/MaeserGH21",
-      "DOI": "10.1093/bib/bbab260",
-      "CorpusId": 235906669,
-      "PubMed": "34260682"
-    },
-    "url": "https://www.semanticscholar.org/paper/25905b2206e7bec85fe21d020be29df95f1303be",
-    "title": "oncoPredict: an R package for predicting in vivo or cancer patient drug response and biomarkers from cell line screening data",
-    "abstract": "Cell line drug screening datasets can be utilized for a range of different drug discovery applications from drug biomarker discovery to building translational models of drug response. Previously, we described three separate methodologies to (1) correct for general levels of drug sensitivity to enable drug-specific biomarker discovery, (2) predict clinical drug response in patients and (3) associate these predictions with clinical features to perform in vivo drug biomarker discovery. Here, we unite and update these methodologies into one R package (oncoPredict) to facilitate the development and adoption of these tools. This new OncoPredict R package can be applied to various in vitro and in vivo contexts for drug and biomarker discovery.",
-    "year": 2021,
-    "isOpenAccess": true,
-    "openAccessPdf": {
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8574972",
-      "status": "GREEN",
-      "license": null,
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1093/bib/bbab260?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/bib/bbab260, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-    },
-    "authors": [
-      {
-        "authorId": "91410835",
-        "name": "D. Maeser"
-      },
-      {
-        "authorId": "23527361",
-        "name": "Robert F. Gruener"
-      },
-      {
-        "authorId": "2143633324",
-        "name": "R. Huang"
-      }
-    ]
-  },
-  {
-    "paperId": "8ed8e3a5d053ade67dd53c29589d55e8a34eafff",
-    "externalIds": {
-      "MAG": "2889223700",
-      "DOI": "10.1038/s41582-018-0058-z",
-      "CorpusId": 52140127,
-      "PubMed": "30171200"
-    },
-    "url": "https://www.semanticscholar.org/paper/8ed8e3a5d053ade67dd53c29589d55e8a34eafff",
-    "title": "Neurofilaments as biomarkers in neurological disorders",
-    "abstract": null,
-    "year": 2018,
     "isOpenAccess": false,
     "openAccessPdf": {
       "url": "",
       "status": "CLOSED",
       "license": null,
-      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41582-018-0058-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41582-018-0058-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/1088767913497949?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1088767913497949, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "143714265",
-        "name": "M. Khalil"
-      },
-      {
-        "authorId": "7415410",
-        "name": "C. Teunissen"
-      },
-      {
-        "authorId": "37737009",
-        "name": "M. Otto"
-      },
-      {
-        "authorId": "4406465",
-        "name": "F. Piehl"
-      },
-      {
-        "authorId": "145172567",
-        "name": "M. Sormani"
-      },
-      {
-        "authorId": "4013233",
-        "name": "T. Gattringer"
-      },
-      {
-        "authorId": "38884100",
-        "name": "Christian Barro"
-      },
-      {
-        "authorId": "2865515",
-        "name": "L. Kappos"
-      },
-      {
-        "authorId": "2554862",
-        "name": "M. Comabella"
-      },
-      {
-        "authorId": "145087979",
-        "name": "F. Fazekas"
-      },
-      {
-        "authorId": "35035173",
-        "name": "A. Petzold"
-      },
-      {
-        "authorId": "3834536",
-        "name": "K. Blennow"
-      },
-      {
-        "authorId": "145253422",
-        "name": "H. Zetterberg"
-      },
-      {
-        "authorId": "6380447",
-        "name": "J. Kuhle"
+        "authorId": "1399162410",
+        "name": "T. Bent-Goodley"
       }
     ]
   },
   {
-    "paperId": "cfed7b553824ae794d40e7396224cbc200b44b1c",
+    "paperId": "434b25eaeb23fd2ee9e71c237dcdf8cabeae0f63",
     "externalIds": {
-      "MAG": "2785757836",
-      "DOI": "10.1038/nature25456",
-      "CorpusId": 4468650,
-      "PubMed": "29420472"
+      "MAG": "2017097168",
+      "DOI": "10.1080/01639625.1993.9967947",
+      "CorpusId": 143600857
     },
-    "url": "https://www.semanticscholar.org/paper/cfed7b553824ae794d40e7396224cbc200b44b1c",
-    "title": "High performance plasma amyloid-\u03b2 biomarkers for Alzheimer\u2019s disease",
-    "abstract": null,
-    "year": 2018,
+    "url": "https://www.semanticscholar.org/paper/434b25eaeb23fd2ee9e71c237dcdf8cabeae0f63",
+    "title": "\"It's a White thing\": An exploration of beliefs about suicide in the African-American community.",
+    "abstract": "Although there has been an increase in black suicides in the past decades the white suicide rate is still nearly double the black suicide rate for men and women. The question asked is, Why is there relatively little black suicide? One persuasive answer proposed in the literature is that major social institutions, particularly religion and family, in the African\u2010American community provide amelioration or buffering of social forces that would otherwise promote suicide. We report on a qualitative investigation designed to identify the content of beliefs and perceptions of suicide that may act as a buffer against suicide in the African\u2010American community. From interviews with black pastors in a southern community we identify an intermingling of religious condemnatory beliefs and secular attitudes about suicide that view suicide as unthinkable sin and define it as a \u201cwhite thing\u201d alien to the black culture.",
+    "year": 1993,
     "isOpenAccess": false,
     "openAccessPdf": {
       "url": "",
       "status": "CLOSED",
       "license": null,
-      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/nature25456?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/nature25456, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1080/01639625.1993.9967947?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/01639625.1993.9967947, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "48001567",
-        "name": "A. Nakamura"
+        "authorId": "117189917",
+        "name": "Kevin E. Early"
       },
       {
-        "authorId": "46633015",
-        "name": "Naoki Kaneko"
-      },
-      {
-        "authorId": "48804623",
-        "name": "V. Villemagne"
-      },
-      {
-        "authorId": "145225782",
-        "name": "Takashi Kato"
-      },
-      {
-        "authorId": "5304699",
-        "name": "J. Doecke"
-      },
-      {
-        "authorId": "2615040",
-        "name": "V. Dor\u00e9"
-      },
-      {
-        "authorId": "153276031",
-        "name": "C. Fowler"
-      },
-      {
-        "authorId": "48933846",
-        "name": "Qiao-Xin Li"
-      },
-      {
-        "authorId": "145538735",
-        "name": "R. Martins"
-      },
-      {
-        "authorId": "1762185",
-        "name": "C. Rowe"
-      },
-      {
-        "authorId": "5923589",
-        "name": "T. Tomita"
-      },
-      {
-        "authorId": "31892884",
-        "name": "K. Matsuzaki"
-      },
-      {
-        "authorId": "2072194002",
-        "name": "K. Ishii"
-      },
-      {
-        "authorId": "34845462",
-        "name": "K. Ishii"
-      },
-      {
-        "authorId": "40073189",
-        "name": "Y. Arahata"
-      },
-      {
-        "authorId": "4129840",
-        "name": "Shinichi Iwamoto"
-      },
-      {
-        "authorId": "2989127",
-        "name": "Kengo Ito"
-      },
-      {
-        "authorId": "2217828653",
-        "name": "Koichi Tanaka"
-      },
-      {
-        "authorId": "144302666",
-        "name": "C. Masters"
-      },
-      {
-        "authorId": "15170345",
-        "name": "K. Yanagisawa"
+        "authorId": "30135974",
+        "name": "R. Akers"
       }
     ]
   },
   {
-    "paperId": "81603586a6e2271e2e2f1e994ff0572787c38a58",
+    "paperId": "b9016e301e45cfd710661e9e3e5c63543acf4495",
     "externalIds": {
-      "DOI": "10.1038/s41591-021-01382-x",
-      "CorpusId": 235336120,
-      "PubMed": "34083813"
+      "MAG": "1971368565",
+      "DOI": "10.1080/01596300500040912",
+      "CorpusId": 143239710
     },
-    "url": "https://www.semanticscholar.org/paper/81603586a6e2271e2e2f1e994ff0572787c38a58",
-    "title": "Biomarkers for neurodegenerative diseases",
-    "abstract": null,
-    "year": 2021,
+    "url": "https://www.semanticscholar.org/paper/b9016e301e45cfd710661e9e3e5c63543acf4495",
+    "title": "A challenge to traditional theory: Critical race theory, African-American community organizers, and education",
+    "abstract": "The following article, through the tenets of critical race theory, seeks to investigate the relationship between theory and practice in school\u2013community relationships. By investigating the views, values, and perceptions of three African-American community organizers in Chicago, Illinois, the following account offers a \u201cchallenge\u201d to traditional theoretical constructs in addressing the needs of students of color in urban schools. The work of community organizers in schools highlights the necessity of viable relationships between schools and communities in the execution of viable approaches to critically analyze the world of young people while developing practical approaches to address their realities. In an attempt to challenge hegemony in public education the author offers critical race theory as a feasible construct in praxis development.",
+    "year": 2005,
     "isOpenAccess": false,
     "openAccessPdf": {
       "url": "",
       "status": "CLOSED",
       "license": null,
-      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41591-021-01382-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41591-021-01382-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1080/01596300500040912?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/01596300500040912, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "143694302",
-        "name": "O. Hansson"
+        "authorId": "46413832",
+        "name": "D. Stovall"
       }
     ]
   },
   {
-    "paperId": "4ef3d902883bfba0d038e54c998963fabace1219",
+    "paperId": "7e512b9656ed0a2a6a320c3023b42794379d95d1",
     "externalIds": {
-      "MAG": "91108901",
-      "DOI": "10.1067/mcp.2001.113989",
-      "CorpusId": 288484,
-      "PubMed": "11240971"
+      "MAG": "1999488651",
+      "DOI": "10.1177/1524838001002004003",
+      "CorpusId": 143546242
     },
-    "url": "https://www.semanticscholar.org/paper/4ef3d902883bfba0d038e54c998963fabace1219",
-    "title": "Biomarkers and surrogate endpoints: Preferred definitions and conceptual framework",
-    "abstract": "genome are dramatically reshaping the research and development pathways for drugs, vaccines, and diagnostics. The growth in the number of molecular entities entering the drug development pipeline has accelerated as a consequence of powerful discovery and screening technologies such as combinatorial chemistry, mass spectrometry, high throughput screening, celland tissue-based DNA microarrays, and proteomic approaches.1 As a consequence, there is an escalating number of therapeutic candidates, which has caused the need for new technologies and strategies to streamline the process to make safe and effective therapies available to patients. One approach to the achievement of more expeditious and informative therapeutic research is the use of precise clinical measurement tools to determine disease progression and the effects of interventions (drugs, surgery, and vaccines). For example, gene-based approaches such as single nucleotide polymorphism maps are now being developed to distinguish the molecular and cellular basis for variations in clinical response to therapy.2 Another approach is the use of a wide array of analytical tools to assess biological parameters, which are referred to as biomarkers. Biomarker measurements can help explain empirical results of clinical trials by relating the effects of interventions on molecular and cellular pathways to clinical responses. In doing so, biomarkers provide an avenue for researchers to gain a mechanistic understanding of the differences in clinical response that may be influenced by uncontrolled variables (for example, drug metabolism). There are a variety of ways that biomarker measurements can aid in the development and evaluation of COMMENTARY",
+    "url": "https://www.semanticscholar.org/paper/7e512b9656ed0a2a6a320c3023b42794379d95d1",
+    "title": "Eradicating Domestic Violence in the African American Community",
+    "abstract": "Though all cultural, religious, sexual orientation, and socioeconomic groups experience domestic violence, people of color continue to be largely ignored in domestic violence literature. African Americans sustain serious and lethal injuries as a result of domestic violence. Domestic violence poses a grave threat to the preservation of African American families and communities. In an effort to create an agenda for further discussion, this article provides a critical analysis of the current literature on domestic violence in the African American community, identifies gaps in knowledge, and discusses an action agenda to help eradicate domestic violence.",
     "year": 2001,
     "isOpenAccess": false,
     "openAccessPdf": {
       "url": "",
       "status": "CLOSED",
       "license": null,
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1067/mcp.2001.113989?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1067/mcp.2001.113989, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/1524838001002004003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1524838001002004003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "49548709",
-        "name": "A. Atkinson"
-      },
-      {
-        "authorId": "3702249",
-        "name": "W. Colburn"
-      },
-      {
-        "authorId": "2284686",
-        "name": "V. DeGruttola"
-      },
-      {
-        "authorId": "2130281",
-        "name": "D. DeMets"
-      },
-      {
-        "authorId": "1394972762",
-        "name": "G. Downing"
-      },
-      {
-        "authorId": "2081860872",
-        "name": "D. Hoth"
-      },
-      {
-        "authorId": "144894763",
-        "name": "J. Oates"
-      },
-      {
-        "authorId": "2970473",
-        "name": "C. Peck"
-      },
-      {
-        "authorId": "1876612",
-        "name": "R. Schooley"
-      },
-      {
-        "authorId": "6958154",
-        "name": "B. Spilker"
-      },
-      {
-        "authorId": "144983682",
-        "name": "J. Woodcock"
-      },
-      {
-        "authorId": "2881229",
-        "name": "S. Zeger"
+        "authorId": "1399162410",
+        "name": "T. Bent-Goodley"
       }
     ]
   },
   {
-    "paperId": "247ae085e9d6fc03305560777a9dcb9cce6b4d1b",
+    "paperId": "1de90e5ef9804a1cae3131e9372b54e71283c2e6",
     "externalIds": {
-      "MAG": "2560565629",
-      "DOI": "10.1038/nm.4246",
-      "CorpusId": 205398003,
-      "PubMed": "27918562"
+      "MAG": "2160395357",
+      "DOI": "10.1177/10778010222182946",
+      "CorpusId": 73340208
     },
-    "url": "https://www.semanticscholar.org/paper/247ae085e9d6fc03305560777a9dcb9cce6b4d1b",
-    "title": "Resting-state connectivity biomarkers define neurophysiological subtypes of depression",
-    "abstract": null,
-    "year": 2016,
-    "isOpenAccess": true,
+    "url": "https://www.semanticscholar.org/paper/1de90e5ef9804a1cae3131e9372b54e71283c2e6",
+    "title": "Exploring the Link Between Stereotypic Images and Intimate Partner Violence in the African American Community",
+    "abstract": "This study investigated the link between stereotypic images of African American women and intimate partner violence in the African American community. Abrief questionnaire was given to a community-based sample of 221 African American men to (a) examine the degree to which African American men endorsed stereotypic images of African American women and (b) explore whether a belief in these images related to a belief that it is justified to use violence against an intimate partner. Results indicated that a large percentage of African American men endorsed stereotypic images of African American women. Endorsement of the stereotypes positively related to justification of violence against women.",
+    "year": 2002,
+    "isOpenAccess": false,
     "openAccessPdf": {
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624035",
-      "status": "GREEN",
+      "url": "",
+      "status": "CLOSED",
       "license": null,
-      "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/nm.4246?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/nm.4246, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1177/10778010222182946?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/10778010222182946, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "16165769",
-        "name": "Andrew T. Drysdale"
-      },
-      {
-        "authorId": "1955837",
-        "name": "L. Grosenick"
-      },
-      {
-        "authorId": "145048545",
-        "name": "J. Downar"
-      },
-      {
-        "authorId": "1889113",
-        "name": "K. Dunlop"
-      },
-      {
-        "authorId": "48466218",
-        "name": "F. Mansouri"
-      },
-      {
-        "authorId": "2114021821",
-        "name": "Y. Meng"
-      },
-      {
-        "authorId": "5455985",
-        "name": "R. Fetcho"
-      },
-      {
-        "authorId": "49365260",
-        "name": "Benjamin Zebley"
-      },
-      {
-        "authorId": "5905686",
-        "name": "D. Oathes"
-      },
-      {
-        "authorId": "2353622",
-        "name": "A. Etkin"
-      },
-      {
-        "authorId": "6885426",
-        "name": "A. Schatzberg"
-      },
-      {
-        "authorId": "5591688",
-        "name": "K. Sudheimer"
-      },
-      {
-        "authorId": "49734037",
-        "name": "J. Keller"
-      },
-      {
-        "authorId": "2245080",
-        "name": "H. Mayberg"
-      },
-      {
-        "authorId": "3568698",
-        "name": "F. Gunning"
-      },
-      {
-        "authorId": "2444847",
-        "name": "G. Alexopoulos"
-      },
-      {
-        "authorId": "31468082",
-        "name": "M. Fox"
-      },
-      {
-        "authorId": "1390039794",
-        "name": "\u00c1. Pascual-Leone"
-      },
-      {
-        "authorId": "40607171",
-        "name": "H. Voss"
-      },
-      {
-        "authorId": "2075132849",
-        "name": "BJ Casey"
-      },
-      {
-        "authorId": "143776856",
-        "name": "M. Dubin"
-      },
-      {
-        "authorId": "145624793",
-        "name": "C. Liston"
+        "authorId": "13439425",
+        "name": "Tameka L. Gillum"
       }
     ]
   },
   {
-    "paperId": "994ba12ea20f675c21c97bce1f7875e2aea7b2e5",
+    "paperId": "d3ec20c0ec331585d8f5394e828047fc0b806922",
     "externalIds": {
-      "MAG": "3001041847",
-      "PubMedCentral": "7072450",
-      "DOI": "10.3390/cells9020276",
-      "CorpusId": 210890109,
-      "PubMed": "31979244"
+      "MAG": "2333338136",
+      "DOI": "10.1097/00006842-199809000-00019",
+      "CorpusId": 8200297,
+      "PubMed": "9773768"
     },
-    "url": "https://www.semanticscholar.org/paper/994ba12ea20f675c21c97bce1f7875e2aea7b2e5",
-    "title": "miRNAs as Biomarkers in Disease: Latest Findings Regarding Their Role in Diagnosis and Prognosis",
-    "abstract": "MicroRNAs (miRNAs) represent a class of small, non-coding RNAs with the main roles of regulating mRNA through its degradation and adjusting protein levels. In recent years, extraordinary progress has been made in terms of identifying the origin and exact functions of miRNA, focusing on their potential use in both the research and the clinical field. This review aims at improving the current understanding of these molecules and their applicability in the medical field. A thorough analysis of the literature consulting resources available in online databases such as NCBI, PubMed, Medline, ScienceDirect, and UpToDate was performed. There is promising evidence that in spite of the lack of standardized protocols regarding the use of miRNAs in current clinical practice, they constitute a reliable tool for future use. These molecules meet most of the required criteria for being an ideal biomarker, such as accessibility, high specificity, and sensitivity. Despite present limitations, miRNAs as biomarkers for various conditions remain an impressive research field. As current techniques evolve, we anticipate that miRNAs will become a routine approach in the development of personalized patient profiles, thus permitting more specific therapeutic interventions.",
-    "year": 2020,
-    "isOpenAccess": true,
+    "url": "https://www.semanticscholar.org/paper/d3ec20c0ec331585d8f5394e828047fc0b806922",
+    "title": "John Henryism, Gender, and Arterial Blood Pressure in an African American Community",
+    "abstract": "Objective To examine the interaction between gender and John Henryism in relationship to arterial blood pressure in an African American community in the Southern United States. It was hypothesized that, within this specific social and cultural context, John Henryism would be associated with blood pressure differently for men and women. Methods A cross-sectional survey of 600 persons, aged 25 to 65, was conducted in the African American community of a small Southern city. John Henryism was assessed using the 12-item John Henryism Scale for Active Coping. Blood pressure was assessed by conventional methods. Results The interaction effect between gender and John Henryism was assessed as a cross-product term in ordinary least squares regression analysis using arterial blood pressure as the dependent variable, and with logistic regression using hypertension as the dependent variable. This interaction effect was significant (p < .05) in relation to systolic blood pressure and hypertension, with the effect evident (p < .07) in relation to diastolic blood pressure. For men, as John Henryism increases, blood pressure and the risk of hypertension increases. For women, as John Henryism increases, blood pressure and the risk of hypertension decreases. Conclusions The association of the behavioral disposition of John Henryism with blood pressure is dependent on the gender of the individual. Men and women face differing cultural expectations and social structural constraints in this community. The sociocultural context modifies the meaning of the behavioral disposition, and hence its effects.",
+    "year": 1998,
+    "isOpenAccess": false,
     "openAccessPdf": {
-      "url": "https://www.mdpi.com/2073-4409/9/2/276/pdf?version=1583029934",
-      "status": "GOLD",
-      "license": "CCBY",
-      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7072450, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1097/00006842-199809000-00019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/00006842-199809000-00019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
     },
     "authors": [
       {
-        "authorId": "1490785894",
-        "name": "C. Condrat"
+        "authorId": "31906546",
+        "name": "W. Dressler"
       },
       {
-        "authorId": "1490788251",
-        "name": "D. Thompson"
+        "authorId": "7369102",
+        "name": "J. Bindon"
       },
       {
-        "authorId": "1471435977",
-        "name": "M. Barbu"
+        "authorId": "5572426",
+        "name": "Y. Neggers"
+      }
+    ]
+  },
+  {
+    "paperId": "4a8580b809f26015b789a448da72f6837ce616de",
+    "externalIds": {
+      "MAG": "2161084501",
+      "DOI": "10.1525/AA.2000.102.2.244",
+      "CorpusId": 146700377
+    },
+    "url": "https://www.semanticscholar.org/paper/4a8580b809f26015b789a448da72f6837ce616de",
+    "title": "The Health Consequences of Cultural Consonance: Cultural Dimensions of Lifestyle, Social Support, and Arterial Blood Pressure in an African American Community",
+    "abstract": "Cultural dimensions of health and behavior have been difficult to study because of limited theoretical and methodological models linking the cultural, the individual, and the biological. We employ a cognitive theory of culture to understand culture and health in an African American community in the southern United States. First, cultural consensus analysis is used to test for shared cultural models of lifestyles and social supports within the community. Then, the theoretical and operational construct of \"cultural consonance\" is used to assess the degree to which individuals behave in a way consistent with cultural models. Findings indicate that cultural consonance in lifestyle and social support combine synergistically in association with blood pressure. These associations of cultural consonance and health are not altered by taking into account a variety of other variables, indicating an independent association of cultural dimensions of behavior with health status. Implications of these results for culture theory are discussed, [culture theory, culture consensus analysis, cultural consonance, African American community, arterial blood pressure]",
+    "year": 2000,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1525/AA.2000.102.2.244?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1525/AA.2000.102.2.244, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "31906546",
+        "name": "W. Dressler"
       },
       {
-        "authorId": "123706672",
-        "name": "O. Bugnar"
+        "authorId": "7369102",
+        "name": "J. Bindon"
+      }
+    ]
+  },
+  {
+    "paperId": "50c98d66bb99f5fa995f3b2c424d6467cddd95d8",
+    "externalIds": {
+      "MAG": "1978569688",
+      "DOI": "10.1086/342994",
+      "CorpusId": 144191248
+    },
+    "url": "https://www.semanticscholar.org/paper/50c98d66bb99f5fa995f3b2c424d6467cddd95d8",
+    "title": "The History of Grandmothers in the African\u2010American Community",
+    "abstract": "This article examines the role of grandmothers in the African\u2010American community from Reconstruction through the New Deal. It suggests that grandmothers were central to the economic survival of their families and worked as long as they lived, in paid labor and household labor, to help provide for their families. Grandmothers had many roles in their communities: they were midwives, purveyors of domestic medicine, and caretakers of children. Grandmothers were the source of oral histories and narratives that helped their grandchildren resist the oppression of the larger society. This early role is linked to the role of grandmothers since World War II.",
+    "year": 2002,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1086/342994?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/342994, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "31309006",
+        "name": "J. Jimenez"
+      }
+    ]
+  },
+  {
+    "paperId": "2eaa668fa1666a78145bee00501f6541c7c0643d",
+    "externalIds": {
+      "PubMedCentral": "2396981",
+      "MAG": "1923454040",
+      "CorpusId": 11881603,
+      "PubMed": "18341779"
+    },
+    "url": "https://www.semanticscholar.org/paper/2eaa668fa1666a78145bee00501f6541c7c0643d",
+    "title": "Validity of the SF-12 for Use in a Low-Income African American Community-Based Research Initiative (REACH 2010)",
+    "abstract": "Introduction The objective of our study was to assess the psychometric properties of the Medical Outcomes Study's 12-Item Short Form Survey Instrument (SF-12) for use in a low-income African American community. The SF-12, a commonly used functional health status assessment, was developed based on responses of an ethnically homogeneous sample of whites. Our assessment addressed the appropriateness of the instrument for establishing baseline indicators for mental and physical health status as part of Nashville, Tennessee's, Racial and Ethnic Approaches to Community Health (REACH) 2010 initiative, a community-based participatory research study. Methods A cross-sectional random residential sample of 1721 African Americans responded to a telephone survey that included the SF-12 survey items and other indicators of mental and physical health status. The SF-12 was assessed by examining item-level characteristics, estimates of scale reliability (internal consistency), and construct validity. Results Construct validity assessed by the method of extreme groups determined that SF-12 summary scores varied for individuals who differed in self-reported medical conditions. Convergent and discriminate validity assessed by multitrait analysis yielded satisfactory coefficients. Concurrent validity was also shown to be satisfactory, assessed by correlating SF-12 summary scores with independent measures of physical and mental health status. Conclusion The SF-12 appears to be a valid measure for assessing health status of low-income African Americans.",
+    "year": 2008,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY",
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC2396981, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "4489590",
+        "name": "C. Larson"
       },
       {
-        "authorId": "2001038902",
-        "name": "A. Boboc"
+        "authorId": "6949181",
+        "name": "D. Schlundt"
       },
       {
-        "authorId": "5847392",
-        "name": "D. Cre\u021boiu"
+        "authorId": "4719010",
+        "name": "Kushal A. Patel"
       },
       {
-        "authorId": "48510862",
-        "name": "N. Suciu"
+        "authorId": "3055993",
+        "name": "M. Hargreaves"
       },
       {
-        "authorId": "4143915",
-        "name": "S. Cre\u021boiu"
-      },
-      {
-        "authorId": "1728775",
-        "name": "S. Voinea"
+        "authorId": "37956978",
+        "name": "Katina R Beard"
       }
     ]
   }
